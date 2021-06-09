@@ -1,0 +1,49 @@
+---
+title: "red_record"
+author: "Rachel Logan"
+date: "6/9/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#GOAL
+This markdown will take in data github user fickleyouth scraped from the Red Record by Ida Wells. This markdown will geocode the data properly to be displayed in a Datasette webpage as part of a proof of concept for a Howard Center for Investigative Journalism project on newspapers' roles in aiding lynchings from 1970-1960.
+
+```{r}
+# Load libraries
+library(janitor)
+library(tidyverse)
+library(readxl)
+library(writexl)
+library(ggmap)
+
+register_google(key = "AIzaSyCRcbjQojSHzaufU0Zl9x5lfP8QyeXPpJs")
+```
+
+```{r}
+# Load data
+red_record<-read_xlsx("redrecord1893-94.xlsx") %>% 
+  clean_names() 
+state_abbrev=read_xlsx("state_abbrev.xlsx")
+```
+
+```{r}
+# Mutate current address col into city and state
+red_record_states<-red_record %>% 
+  mutate(full_location=location) %>% 
+  separate(location, c("city","state"), sep=", ") %>% 
+  left_join(state_abbrev,by=c("state"="abbrev")) %>% 
+  select(names, city,name,date,alleged_crime) %>% 
+  rename(state=name) %>% 
+  mutate(full_location=str_c(city,state, sep=", "))
+red_record_states<-rowid_to_column(red_record_states,"id")
+```
+
+```{r}
+# Geocoding cities
+red_record_geo<-mutate_geocode(red_record_states,full_location)
+write_xlsx(red_record_geo,"red_record_states.xlsx")
+```

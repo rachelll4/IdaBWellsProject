@@ -1,0 +1,233 @@
+﻿id,names,city,state,date,alleged_crime,full_location,lon,lat
+1,"Paul Hill, Paul Archer, William Archer, Emma Fair",Carrollton,Alabama,"Sept. 15, 1893",Arson,"Carrollton, Alabama",-88.0950263,33.2617871
+2,unknown negro,Fannin,Mississippi,"Dec. 23, 1893",Suspected Robbery,"Fannin, Mississippi",-89.9567485,32.4173651
+3,Calvin Thomas,Brainbridge,Georgia,"Dec. 25, 1893",Assault,"Brainbridge, Georgia",-84.5754699,30.9037995
+4,Tillman Green,Columbia,Louisiana,"Dec. 28, 1893",Attempted Assault,"Columbia, Louisiana",-92.0779129,32.1051567
+5,Patrick Wells,Quincy,Florida,"Jan. 26, 1893",Incendiarism,"Quincy, Florida",-84.591058,30.5880468
+6,"Frank Harrell, William Filder",Dickery,Mississippi,"Feb. 9, 1893",Incendiarism,"Dickery, Mississippi",-90.61667,33.72861
+7,Richard Mays,Springville,Missouri,"Feb. 21, 1893",Attempted Rape,"Springville, Missouri",-93.2922989,37.2089572
+8,Dug Hazleton,Carrollton,Georgia,"Aug. 14, 1893",Attempted Rape,"Carrollton, Georgia",-85.0766113,33.5801103
+9,Judge McNeil,Cadiz,Kentucky,"Sept. 1, 1893",Attempted Rape,"Cadiz, Kentucky",-87.835295,36.8650496
+10,Frank Smith,Newton,Mississippi,"Sept. 11, 1893",Attempted Rape,"Newton, Mississippi",-89.1633929,32.3212554
+11,William Jackson,Nevada,Missouri,"Sept. 16, 1893",Attempted Rape,"Nevada, Missouri",-94.3546719,37.8392052
+12,Riley Gulley,Pine Apple,Alabama,"Sept. 19, 1893",Attempted Rape,"Pine Apple, Alabama",-86.9910942,31.872651
+13,John Davis,Shorterville,Alabama,"Oct. 9, 1893",Attempted Rape,"Shorterville, Alabama",-85.1013186,31.570169
+14,Robert Kennedy,Spartansburg,South Carolina,"Nov. 8, 1893",Attempted Rape,"Spartansburg, South Carolina",-81.9320482,34.9495672
+15,Richard Forman,Granada,Mississippi,"Feb. 16, 1893",Burglary,"Granada, Mississippi",-89.8084192,33.7690049
+16,David Jackson,Covington,Louisiana,"Oct. 14, 1893",Wife Beating,"Covington, Louisiana",-90.1009108,30.4754702
+17,Thomas Smith,Roanoke,Virginia,"Sept. 21, 1893",Attempted Murder,"Roanoke, Virginia",-79.9414266,37.2709704
+18,four unknown negroes,Selma,Alabama,"Dec. 12, 1893",Attempted Robbery,"Selma, Alabama",-87.0211007,32.4073589
+19,Thomas Carr,Kosciusko,Mississippi,"Jan. 30, 1893",Race Prejudice,"Kosciusko, Mississippi",-89.5875764,33.0576295
+20,William Butler,Hickory Creek,Texas,"Feb. 7, 1893",Race Prejudice,"Hickory Creek, Texas",-97.0389599,33.114742
+21,Charles Tart,Lyons Station,Mississippi,"Aug. 27, 1893",Race Prejudice,"Lyons Station, Mississippi",-90.5300908,34.2340249
+22,Robert Greenwood,Cross county,Arkansas,"Dec. 7, 1893",Race Prejudice,"Cross county, Arkansas",-90.8294002,35.2998913
+23,Allen Butler,Lawrenceville,Illinois,"July 14, 1893",Race Prejudice,"Lawrenceville, Illinois",-87.6816927,38.7292137
+24,two unknown negroes,Knox Point,Louisiana,"Oct. 24, 1893",Thieves,"Knox Point, Louisiana",-92.2573608,32.4956504
+25,"Edward Wagner, William Wagner, Samuel Motlow, Eliza Motlow",Lynchburg,Virginia,"Nov. 4, 1893",Alleged Barn Burning,"Lynchburg, Virginia",-79.1422464,37.4137536
+26,"Robert Landry, Chicken George, Richard Davis",St. James Parish,Louisiana,"Jan. 21, 1893",Alleged Murder,"St. James Parish, Louisiana",-90.7913227,30.0179292
+27,"Benjamin Menter, Robert Wilkins, Jospeh Gevhens",Berlin,Alabama,"Dec. 8, 1893",Alleged Murder,"Berlin, Alabama",-86.742767,34.182781
+28,"Valsin Julian, Basil Julian, Paul Julian, John Willis",Jefferson Parish,Louisiana,"Sept. 16, 1893",Alleged Complicity in Murder,"Jefferson Parish, Louisiana",-90.1120696,29.6498691
+29,Samuel Thorp,Savannah,Georgia,"June 29, 1893",Murder,"Savannah, Georgia",-81.091203,32.0808989
+30,George S. Riechen,Waynesboro,Georgia,"June 29, 1893",Murder,"Waynesboro, Georgia",-82.0156736,33.0898731
+31,Joseph Bird,Wilberton,Oklahoma,"June 30, 1893",Murder,"Wilberton, Oklahoma",-95.3091383,34.91871
+32,James Lamar,Darien,Georgia,"July 1, 1893",Murder,"Darien, Georgia",-81.4339903,31.3702255
+33,Henry Miller,Dallas,Texas,"July 28, 1893",Murder,"Dallas, Texas",-96.7969879,32.7766642
+34,Ada Hiers,Walterboro,South Carolina,"July 28, 1893",Murder,"Walterboro, South Carolina",-80.6667688,32.9051704
+35,Alexander Brown,Bastrop,Texas,"July 28, 1893",Murder,"Bastrop, Texas",-97.3152701,30.1104947
+36,W.G. Jamison,Quincy,Illinois,"July 30, 1893",Murder,"Quincy, Illinois",-91.4098726,39.9356016
+37,John Ferguson,Lawrens,South Carolina,"Sept. 1, 1893",Murder,"Lawrens, South Carolina",-82.0142597,34.4990116
+38,Oscar Johnston,Berkeley,South Carolina,"Sept. 1, 1893",Murder,"Berkeley, South Carolina",-80.0087746,33.1260618
+39,Henry Ewing,Berkeley,South Carolina,"Sept. 1, 1893",Murder,"Berkeley, South Carolina",-80.0087746,33.1260618
+40,William Smith,Camden,Arkansas,"Sept. 8, 1893",Murder,"Camden, Arkansas",-92.8343294,33.5845581
+41,Staples Green,Livingston,Alabama,"Sept. 15, 1893",Murder,"Livingston, Alabama",-88.1872475,32.5843025
+42,"Hiram Jacobs, Lucien Mannet, Hire Bevington, Weldon Gordon, Parse Strickland,",Mount Vernon,Georgia,"Sept. 29, 1893",Murder,"Mount Vernon, Georgia",-82.5945783,32.1785145
+43,William Dalton,Cartersville,Georgia,"Oct. 20, 1893",Murder,"Cartersville, Georgia",-84.7999382,34.1650972
+44,M.B. Taylor,Wise Court House,Virginia,"Oct. 27, 1893",Murder,"Wise Court House, Virginia",-82.5797576,36.9768562
+45,Isaac Williams,Madison,Georgia,"Oct. 27, 1893",Murder,"Madison, Georgia",-83.467944,33.5956813
+46,Miller Davis,Center Point,Arkansas,"Nov. 10, 1893",Murder,"Center Point, Arkansas",-93.9476887,34.0265019
+47,John Johnston,Auburn,New York,"Nov. 14, 1893",Murder,"Auburn, New York",-76.5660529,42.9317335
+48,Calvin Stewart,Langley,South Carolina,"Sept. 27, 1893",Murder,"Langley, South Carolina",-81.8440011,33.5179148
+49,Henry Coleman,Denton,Louisiana,"Sept. 29, 1893",Murder,"Denton, Louisiana",-97.097726,33.1928378
+50,"William Richards, James Dickson",Summerfield,Georgia,"Oct. 18, 1893",Murder,"Summerfield, Georgia",-85.3477343,34.480642
+51,Edward Jenkins,Clayton county,Georgia,"Oct. 27, 1893",Murder,"Clayton county, Georgia",-84.375233,33.5571944
+52,Henry Boggs,Fort White,Florida,"Nov. 9, 1893",Murder,"Fort White, Florida",-82.7137327,29.9232908
+53,three unknown negroes,Lake City Junction,Florida,"Nov. 14, 1893",Murder,"Lake City Junction, Florida",-82.6392899,30.1896756
+54,D.T. Nelson,Varney,Arkansas,"Nov. 14, 1893",Murder,"Varney, Arkansas",-93.1526953,34.4828041
+55,Newton Jones,Baxley,Georgia,"Nov. 29, 1893",Murder,"Baxley, Georgia",-82.3484618,31.7782514
+56,Lucius Holt,Concord,Georgia,"Dec. 2, 1893",Murder,"Concord, Georgia",-84.4374232,33.0912359
+57,two unknown negroes,Richmond,Alabama,"Dec. 10, 1893",Murder,"Richmond, Alabama",-87.0549866,32.1140327
+58,Henry Fleming,Columbus,Mississippi,"July 12, 1893",Murder,"Columbus, Mississippi",-88.4272627,33.4956744
+59,unknown negro,Briar Field,Alabama,"July 17, 1893",Murder,"Briar Field, Alabama",-86.2769208,33.4228862
+60,Meredith Lewis,Roseland,Louisiana,"July 18, 1893",Murder,"Roseland, Louisiana",-90.5117599,30.7649069
+61,Edward Bill,Dresden,Tennessee,"July 29, 1893",Murder,"Dresden, Tennessee",-88.7081122,36.2914512
+62,Henry Reynolds,Montgomery,Tennessee,"Aug. 1, 1893",Murder,"Montgomery, Tennessee",-87.460397,36.4960406
+63,unknown negro,McCreery,Arkansas,"Aug. 9, 1893",Murder,"McCreery, Arkansas",-91.8318334,35.20105
+64,unknown negro,Brantford,Florida,"Aug. 12, 1893",Murder,"Brantford, Florida",-82.9281833,29.9591183
+65,Charles Walton,Morganfield,Kentucky,"Aug. 18, 1893",Murder,"Morganfield, Kentucky",-87.9166915,37.6833776
+66,Charles Tait,Memphis,Tennessee,"Aug. 21, 1893",Murder,"Memphis, Tennessee",-90.0489801,35.1495343
+67,Leonard Taylor,New Castle,Kentucky,"Aug. 28, 1893",Murder,"New Castle, Kentucky",-85.1696768,38.4334003
+68,Benjamin Jackson,Quincy,Mississippi,"Sept. 8, 1893",Murder,"Quincy, Mississippi",-88.3669845,33.9098321
+69,John Williams,Jackson,Tennessee,"Sept. 14, 1893",Murder,"Jackson, Tennessee",-88.8139469,35.6145169
+70,unknown negro,Wingo,Kentucky,"July 30, 1893",Self Defense,"Wingo, Kentucky",-88.7389424,36.6422806
+71,two unknown negroes,Franklin Parish,Louisiana,"Aug. 18, 1893",Poisoning Wells,"Franklin Parish, Louisiana",-91.5983959,32.0737103
+72,"Benjamin Jackson,",Jackson,Mississippi,"Sept. 15, 1893",Alleged Well Poisoning,"Jackson, Mississippi",-90.1848103,32.2987573
+73,Mahala Jackson,Jackson,Mississippi,"Sept. 15, 1893",Alleged Well Poisoning,"Jackson, Mississippi",-90.1848103,32.2987573
+74,Louisa Carter,Jackson,Mississippi,"Sept. 15, 1893",Alleged Well Poisoning,"Jackson, Mississippi",-90.1848103,32.2987573
+75,W.A. Haley,Jackson,Mississippi,"Sept. 15, 1893",Alleged Well Poisoning,"Jackson, Mississippi",-90.1848103,32.2987573
+76,Rufus Bigley,Jackson,Mississippi,"Sept. 15, 1893",Alleged Well Poisoning,"Jackson, Mississippi",-90.1848103,32.2987573
+77,John Hughes,Moberly,Missouri,"Feb. 18, 1893",Insulting Whites,"Moberly, Missouri",-92.4382367,39.4183689
+78,Isaac Lincoln,Fort Madison,South Carolina,"June 2, 1893",Insulting Whites,"Fort Madison, South Carolina",-83.2079355,34.6323195
+79,Daniel Adams,Selina,Kansas,"April 20, 1893",Murderous Assault,"Selina, Kansas",-97.6114237,38.8402805
+80,Charles Martin,Shelby Co.,Tennessee,"July 21, 1893",No Offense,"Shelby Co., Tennessee",-89.9253233,35.1268552
+81,William Steen,Paris,Mississippi,"July 30, 1893",No Offense,"Paris, Mississippi",-89.4598017,34.1787205
+82,unknown negro,Yarborough,Texas,"Aug. 31, 1893",No Offense,"Yarborough, Texas",-97.3766526,27.2064354
+83,unknown negro,Houston,Texas,"Sept. 30, 1893",No Offense,"Houston, Texas",-95.3698028,29.7604267
+84,Mack Segars,Brantley,Alabama,"Dec. 28, 1893",No Offense,"Brantley, Alabama",-86.2571786,31.5823832
+85,Charles T. Miller,Bardwell,Kentucky,"July 7, 1893",Alleged Rape,"Bardwell, Kentucky",-89.0097869,36.8706111
+86,"Daniel Lewis, James Taylor, John Chambers",Waycross,Georgia,"Aug. 10, 1893",Alleged Rape,"Waycross, Georgia",-82.3540178,31.2135511
+87,Henry G. Givens,Nebro,Kentucky,"Dec. 16, 1893",Alleged Stock Poisoning,"Nebro, Kentucky",-87.6427843,37.383656
+88,Sloan Allen,West Mississippi,Mississippi,"Dec. 23, 1893",Suspected Murder,"West Mississippi, Mississippi",-89.7773051,33.1970719
+89,Andy Blount,Chattanooga,Tennessee,"Feb. 14, 1893",Suspicion of Rape,"Chattanooga, Tennessee",-85.3096801,35.0456297
+90,William Ferguson,Adele,Georgia,"Dec. 19, 1893",Turning States Evidence,"Adele, Georgia",-83.4234936,31.1371358
+91,James Williams,Pickens Co.,Alabama,"Jan. 19, 1893",Rape,"Pickens Co., Alabama",-88.0900762,33.3339954
+92,unknown negro,Forest Hill,Tennessee,"Feb. 11, 1893",Rape,"Forest Hill, Tennessee",-86.844167,36.0683932
+93,Joseph Hayne,Paine Jellico,Tennessee,"Feb. 26, 1893",Rape,"Paine Jellico, Tennessee",-83.9158141,35.9617285
+94,Abner Anthony,Hot Springs,Virginia,"Nov. 1, 1893",Rape,"Hot Springs, Virginia",-79.831587,37.9993993
+95,homas Hill,Spring Place,Georgia,"Nov. 1, 1893",Rape,"Spring Place, Georgia",-84.8210512,34.7581366
+96,John Peterson,Denmark,South Carolina,"April 24, 1893",Rape,"Denmark, South Carolina",-81.1423236,33.3226546
+97,Samuel Gaillard,NA,South Carolina,"May 6, 1893",Rape,"NA, South Carolina",-81.9651152,33.5018026
+98,Haywood Banks,Marksdale Columbia,South Carolina,"May 10, 1893",Rape,"Marksdale Columbia, South Carolina",-81.0299186,33.9937575
+99,Israel Halliway,Napoleonville,Louisiana,"May 12, 1893",Rape,"Napoleonville, Louisiana",-91.0274993,29.9382674
+100,unknown negro,Wytheville,Virginia,"May 12, 1893",Rape,"Wytheville, Virginia",-81.084811,36.9484528
+101,John Wallace,Jefferson Springs,Arkansas,"May 31, 1893",Rape,"Jefferson Springs, Arkansas",-94.1721495,36.3761865
+102,Samuel Bush,Decatur,Illinois,"June 3, 1893",Rape,"Decatur, Illinois",-88.9548001,39.8403147
+103,L.C. Dumas,Gleason,Tennessee,"June 8, 1893",Rape,"Gleason, Tennessee",-88.6125545,36.2136731
+104,William Shorter,Winchester,Virginia,"June 13, 1893",Rape,"Winchester, Virginia",-78.1633341,39.1856597
+105,George Williams,Waco,Texas,"June 14, 1893",Rape,"Waco, Texas",-97.1466695,31.549333
+106,Daniel Edwards,Selina or Selma,Alabama,"June 24, 1893",Rape,"Selina or Selma, Alabama",-87.0211007,32.4073589
+107,Ernest Murphy,Daleville,Alabama,"June 27, 1893",Rape,"Daleville, Alabama",-85.7129908,31.3101719
+108,"unknown negro, unknown negro",Poplar Head,Louisiana,"July 6, 1893",Rape,"Poplar Head, Louisiana",-90.1288646,30.8528091
+109,Robert Larkin,Oscola,Texas,"July 12, 1893",Rape,"Oscola, Texas",-99.9018131,31.9685988
+110,Warren Dean,Stone Creek,Georgia,"July 17, 1893",Rape,"Stone Creek, Georgia",-84.0135229,33.5592794
+111,unknown negro,Brantford,Florida,"July 21, 1893",Rape,"Brantford, Florida",-82.9281833,29.9591183
+112,John Cotton,Connersville,Arkansas,"July 17, 1893",Rape,"Connersville, Arkansas",-85.1296628,39.6639934
+113,Lee Walker,New Albany,Mississippi,"July 22, 1893",Rape,"New Albany, Mississippi",-89.0078418,34.4942683
+114,Handy,Suansea,South Carolina,"July 26, 1893",Rape,"Suansea, South Carolina",-81.0978734,33.7382088
+115,"William Thompson, Thomas Preston, Handy Kaigler",Columbia,South Carolina,"July 30, 1893",Rape,"Columbia, South Carolina",-81.0348144,34.0007104
+116,Isaac Harper,Calera,Alabama,"July 28, 1893",Rape,"Calera, Alabama",-86.7535975,33.1028965
+117,Monroe Smith,Springfield,Alabama,"Aug. 13, 1893",Rape,"Springfield, Alabama",-87.7619464,31.8337654
+118,negro tramp,Paducah,Kentucky,"Aug. 19, 1893",Rape,"Paducah, Kentucky",-88.6000478,37.0833893
+119,John Nilson,Leavenworth,Kansas,"Aug. 21, 1893",Rape,"Leavenworth, Kansas",-94.9224637,39.3111112
+120,Jacob Davis,Green Wood,South Carolina,"Aug. 23, 1893",Rape,"Green Wood, South Carolina",-82.1617883,34.1954001
+121,William Arkinson,McKenney,Kentucky,"Sept. 2, 1893",Rape,"McKenney, Kentucky",-84.7567623,37.4563549
+122,unknown negro,Centerville,Alabama,"Sept. 16, 1893",Rape,"Centerville, Alabama",-87.1386067,32.9445682
+123,Jessie Mitchell,Amelia C.H.,Virginia,"Sept. 16, 1893",Rape,"Amelia C.H., Virginia",-77.9805478,37.3426037
+124,Perry Bratcher,New Boston,Texas,"Sept. 25, 1893",Rape,"New Boston, Texas",-94.4154787,33.4598415
+125,William Lacey,Jasper,Alabama,"Oct. 9, 1893",Rape,"Jasper, Alabama",-87.2775053,33.8312185
+126,John Gamble,Pikesville,Tennessee,"Oct. 22, 1893",Rape,"Pikesville, Tennessee",-85.1888498,35.6056231
+127,Samuel Smith,Greenville,Alabama,"Jan. 9, 1894",Murder,"Greenville, Alabama",-86.6177517,31.8295972
+128,Sherman Wagoner,Mitchell,Indiana,"Jan. 11, 1894",Murder,"Mitchell, Indiana",-86.4736019,38.7328304
+129,Roscoe Parker,West Union,Ohio,"Jan. 12, 1894",Murder,"West Union, Ohio",-83.5451934,38.7945166
+130,Henry Bruce,Gulch Co.,Arkansas,"Feb. 7, 1894",Murder,"Gulch Co., Arkansas",-105.6966698,38.4308305
+131,Sylvester Rhodes,Collins,Georgia,"March 5, 1894",Murder,"Collins, Georgia",-82.1090083,32.1813013
+132,Richard Puryea,Stroudsburg,Pennsylvania,"March 15, 1894",Murder,"Stroudsburg, Pennsylvania",-75.1946248,40.9867609
+133,Oliver Jackson,Montgomery,Alabama,"March 29, 1894",Murder,"Montgomery, Alabama",-86.3077368,32.3792233
+134,Saybrick,Fisher's Ferry,Mississippi,"March 30, 1894",Murder,"Fisher's Ferry, Mississippi",-90.8150775,32.1968547
+135,William Lewis,Lanison,Alabama,"April 14, 1894",Murder,"Lanison, Alabama",-85.9594239,34.877861
+136,Jefferson Luggle,Cherokee,Kansas,"April 23, 1894",Murder,"Cherokee, Kansas",-94.8088504,37.3458874
+137,"Samuel Slaugate, Thomas Claxton, David Hawkins,",Tallulah,Louisiana,"April 23, 1894",Murder,"Tallulah, Louisiana",-91.1867771,32.4084765
+138,"Thel Claxton, Comp Claxton, Scot Harvey, Jerry McCly",Tallulah,Louisiana,"April 27, 1894",Murder,"Tallulah, Louisiana",-91.1867771,32.4084765
+139,Henry Scott,Jefferson,Texas,"May 17, 1894",Murder,"Jefferson, Texas",-94.3451926,32.7573626
+140,Coat Williams,Pine Grove,Florida,"May 15, 1894",Murder,"Pine Grove, Florida",-81.1845112,28.2597342
+141,Jefferson Crawford,Bethesda,South Carolina,"June 2, 1894",Murder,"Bethesda, South Carolina",-80.0475656,34.6412667
+142,Thondo Underwood,Monroe,Louisiana,"June 4, 1894",Murder,"Monroe, Louisiana",-92.1193012,32.5093109
+143,Isaac Kemp,Cape Charles,Virginia,"June 8, 1894",Murder,"Cape Charles, Virginia",-76.0174336,37.267916
+144,"Lon Hall, Bascom Cook",Sweethouse,Texas,"June 13, 1894",Murder,"Sweethouse, Texas",-96.5797987,32.9222217
+145,Luke Thomas,Biloxi,Mississippi,"June 15, 1894",Murder,"Biloxi, Mississippi",-88.8853078,30.3960318
+146,John Williams,Sulphur,Texas,"June 29, 1894",Murder,"Sulphur, Texas",-95.6010668,33.1384479
+147,Ulysses Hayden,Monett,Missouri,"June 29, 1894",Murder,"Monett, Missouri",-93.9277071,36.9289502
+148,Hood,Amite,Mississippi,"July 6, 1894",Murder,"Amite, Mississippi",-90.8294002,31.1683803
+149,James Bell,Charlotte,Tennessee,"July 7, 1894",Murder,"Charlotte, Tennessee",-87.3397319,36.1772797
+150,Henderson Hollander,Elkhorn,West Virginia,"Sept. 2, 1894",Murder,"Elkhorn, West Virginia",-81.4109363,37.3856708
+151,Robert Williams,Concordia Parish,Louisiana,"Sept. 14, 1894",Murder,"Concordia Parish, Louisiana",-91.637215,31.4808983
+152,"Luke Washington, Richard Washington, Henry Crobyson",Meghee,Arkansas,"Sept. 22, 1894",Murder,"Meghee, Arkansas",-91.3945566,33.6255234
+153,Lawrence Younger,Lloyd,Virginia,"Nov. 10, 1894",Murder,"Lloyd, Virginia",-77.014971,38.0009684
+154,unknown Negro,Williamston,South Carolina,"Dec. 17, 1894",Murder,"Williamston, South Carolina",-82.4779053,34.6184471
+155,"Samuel Taylor, Charles Frazier, Samuel Pike, Harry Sherard, unknown Negro, unknown, Negro, unknown Negro",Brooks County,Georgia,"Dec. 23, 1894",Murder,"Brooks County, Georgia",-83.5496566,30.8730159
+156,"Daniel McDonald, William Carter",Winston County,Mississippi,"Dec. 26, 1894",Murder,"Winston County, Mississippi",-89.0179332,33.1650338
+157,John Buckner,Valley Park,Missouri,"Jan. 17, 1894",Rape,"Valley Park, Missouri",-90.4926214,38.5492204
+158,M.G. Cambell,Jellico Mines,Kentucky,"Jan. 21, 1894",Rape,"Jellico Mines, Kentucky",-84.2333333,36.6877778
+159,unknown,Verona,Missouri,"Jan. 27, 1894",Rape,"Verona, Missouri",-93.7957591,36.9639476
+160,Henry McCreeg,Pioneer,Tennessee,"Feb. 1, 1894",Rape,"Pioneer, Tennessee",-84.3140995,36.4175798
+161,Daniel Ahren,Greensboro,Georgia,"April 6, 1894",Rape,"Greensboro, Georgia",-83.1823789,33.5756831
+162,Seymour Newland,Rushsylvania,Ohio,"April 15, 1894",Rape,"Rushsylvania, Ohio",-83.6699311,40.461442
+163,Robert Evarts,Jamaica,Georgia,"April 26, 1894",Rape,"Jamaica, Georgia",-81.6523294,31.2518938
+164,"James Robinson, Benjamin White",Manassas,Virginia,"April 27, 1894",Rape,"Manassas, Virginia",-77.4752667,38.7509488
+165,Nim Young,Ocala,Florida,"May 15, 1894",Rape,"Ocala, Florida",-82.1400923,29.1871986
+166,unknown,Miller County,Georgia,"May 22, 1894",Rape,"Miller County, Georgia",-84.7315563,31.2008218
+167,unknown,Blackshear,Georgia,"June 13, 1894",Rape,"Blackshear, Georgia",-82.2420661,31.3060513
+168,Owen Opliltree,Forsyth,Georgia,"June 18, 1894",Rape,"Forsyth, Georgia",-83.938242,33.0342974
+169,Henry Capus,Magnolia,Arkansas,"June 22, 1894",Rape,"Magnolia, Arkansas",-93.239334,33.2670725
+170,Caleb Godly,Bowling Green,Kentucky,"June 26, 1894",Rape,"Bowling Green, Kentucky",-86.4808043,36.9685219
+171,Fayette Franklin,Mitchell,Georgia,"June 28, 1894",Rape,"Mitchell, Georgia",-82.7031896,33.2198688
+172,Joseph Johnson,Hiller's Creek,Missouri,"July 2, 1894",Rape,"Hiller's Creek, Missouri",-92.0482327,38.7382422
+173,Lewis Bankhead,Cooper,Alabama,"July 6, 1894",Rape,"Cooper, Alabama",-86.5455347,32.7751276
+174,Marion Howard,Scottsville,Kentucky,"July 16, 1894",Rape,"Scottsville, Kentucky",-86.1905424,36.7533781
+175,William Griffith,Woodville,Texas,"July 20, 1894",Rape,"Woodville, Texas",-94.4148791,30.7753454
+176,William Nershbread,Rossville,Tennessee,"Aug. 12, 1894",Rape,"Rossville, Tennessee",-89.5425786,35.0484242
+177,Marshall Boston,Frankfort,Kentucky,"Aug. 14, 1894",Rape,"Frankfort, Kentucky",-84.8732835,38.2009055
+178,David Gooseby,Atlanta,Georgia,"Sept. 19, 1894",Rape,"Atlanta, Georgia",-84.3879824,33.7489954
+179,Willis Griffey,Princeton,Kentucky,"Oct. 15, 1894",Rape,"Princeton, Kentucky",-87.8819594,37.1092162
+180,Lee Lawrence,Jasper County,Georgia,"Nov. 8, 1894",Rape,"Jasper County, Georgia",-83.7199136,33.3246924
+181,Needham Smith,Tipton County,Tennessee,"Nov. 10, 1894",Rape,"Tipton County, Tennessee",-89.7379958,35.5217179
+182,Robert Mosely,Dolinite,Alabama,"Nov. 14, 1894",Rape,"Dolinite, Alabama",-86.9548989,33.4711475
+183,William Jackson,Ocala,Florida,"Dec. 4, 1894",Rape,"Ocala, Florida",-82.1400923,29.1871986
+184,unknown,Marion County,Florida,"Dec. 18, 1894",Rape,"Marion County, Florida",-82.12784,29.2787765
+185,Lamsen Gregory,Bell's Depot,Tennessee,"March 6, 1894",Unknown Offense,"Bell's Depot, Tennessee",-89.0833492,35.7109569
+186,unknown woman,Marche,Arkansas,"March 6, 1894",Unknown Offense,"Marche, Arkansas",-92.3623759,34.8634232
+187,Alfred Brenn,Calhoun,Georgia,"April 14, 1894",Unknown Offense,"Calhoun, Georgia",-84.9510542,34.502587
+188,Harry Gill,West Lancaster,South Carolina,"June 8, 1894",Unknown Offense,"West Lancaster, South Carolina",-80.7707238,34.7314195
+189,unknown,Landrum,South Carolina,"Nov. 23, 1894",Unknown Offense,"Landrum, South Carolina",-82.1892795,35.1751148
+190,Mrs. Teddy Arthur,Lincoln County,West Virginia,"Dec. 5, 1894",Unknown Offense,"Lincoln County, West Virginia",-82.0842901,38.1761009
+191,Charles Willis,Ocala,Florida,"Jan. 14, 1894",Desperado,"Ocala, Florida",-82.1400923,29.1871986
+192,unknown,Bayou Sarah,Louisiana,"Jan. 18, 1894",Suspected Incendiarism,"Bayou Sarah, Louisiana",-91.4158095,30.8167445
+193,J.H. Dave,Monroe,Louisiana,"June 14, 1894",Suspected Arson,"Monroe, Louisiana",-92.1193012,32.5093109
+194,NA Collins,Athens,Georgia,"Feb. 10, 1894",Enticing Servant Away,"Athens, Georgia",-83.357567,33.9519347
+195,Jesse Dillingham,Smokeyville,Texas,"Feb. 10, 1894",Train Wrecking,"Smokeyville, Texas",-99.9018131,31.9685988
+196,unknown,Dublin,Georgia,"June 3, 1894",Highway Robbery,"Dublin, Georgia",-82.903754,32.5404447
+197,"Gabe Nalls, Ulysses Nails",Blackford,Kentucky,"Nov. 8, 1894",Incendiarism,"Blackford, Kentucky",-87.9347427,37.4483806
+198,James Allen,Brownsville,Texas,"Dec. 20, 1894",Arson,"Brownsville, Texas",-97.4974838,25.9017472
+199,George King,New Orleans,Louisiana,"Dec. 23, 1894",Assault,"New Orleans, Louisiana",-90.0715323,29.9510658
+200,Scott Sherman,Morehouse Parish,Louisiana,"Dec. 28, 1894",No offense,"Morehouse Parish, Louisiana",-91.7538817,32.796224
+201,"Henry Smith, William James",Clinton,Mississippi,"May 29, 1894",Burglary,"Clinton, Mississippi",-90.3217585,32.3415342
+202,Ready Murdock,Yazoo,Mississippi,"June 4, 1894",Alleged Rape,"Yazoo, Mississippi",-90.3748354,32.8078912
+203,unknown Negro,Biloxi,Mississippi,"July 14, 1894",Attempted Rape,"Biloxi, Mississippi",-88.8853078,30.3960318
+204,Vance McClure,New Iberia,Louisiana,"July 26, 1894",Attempted Rape,"New Iberia, Louisiana",-91.8187285,30.0035365
+205,William Tyler,Carlisle,Kentucky,"July 26, 1894",Attempted Rape,"Carlisle, Kentucky",-84.027427,38.3120197
+206,James Smith,Stark,Florida,"Sept. 14, 1894",Attempted Rape,"Stark, Florida",-82.1098275,29.9441298
+207,Henry Gibson,Fairfield,Texas,"Oct. 8, 1894",Attempted Rape,"Fairfield, Texas",-96.1652481,31.7246128
+208,NA Williams,Upper Marlboro,Maryland,"Oct. 20, 1894",Attempted Rape,"Upper Marlboro, Maryland",-76.7496909,38.8159473
+209,Lewis Williams,Hewett Springs,Mississippi,"June 9, 1894",Attempted Rape,"Hewett Springs, Mississippi",-88.683469,30.55484
+210,George Linton,Brookhaven,Mississippi,"June 28, 1894",Attempted Rape,"Brookhaven, Mississippi",-90.4406506,31.5790588
+211,Edward White,Hudson,Alabama,"June 28, 1894",Attempted Rape,"Hudson, Alabama",-85.7476902,34.6296191
+212,George Pond,Fulton,Mississippi,"July 6, 1894",Attempted Rape,"Fulton, Mississippi",-88.4092133,34.2739933
+213,Augustus Pond,Tupelo,Mississippi,"July 7, 1894",Attempted Rape,"Tupelo, Mississippi",-88.7033859,34.2576066
+214,Mark Jacobs,Bienville,Louisiana,"June 10, 1894",Race Prejudice,"Bienville, Louisiana",-92.9804374,32.3568222
+215,unknown woman,Sampson County,Mississippi,"July 24, 1894",Race Prejudice,"Sampson County, Mississippi",,
+216,James Perry,Knoxville,Arkansas,"June 10, 1894",Introducing Small Pox,"Knoxville, Arkansas",-93.3643479,35.3820284
+217,Lentige,Harland County,Kentucky,"March 2, 1894",Kidnapping,"Harland County, Kentucky",-83.2077645,36.8890304
+218,J.T. Burgis,Palatka,Florida,"May 29, 1894",Conspiracy,"Palatka, Florida",-81.6375819,29.6485801
+219,"Archie Haynes, Burt Haynes, William Haynes",Mason County,Kentucky,"June 20, 1894",Horse Stealing,"Mason County, Kentucky",-83.8897057,38.6194103
+220,unknown Negro,West Texas,Texas,"May 9, 1894",Writing Letter to White Woman,"West Texas, Texas",-97.0909551,31.8023057
+221,James Nelson,Abbeyville,South Carolina,"July 12, 1894",Giving Information,"Abbeyville, South Carolina",-82.3790147,34.1781719
+222,Alfred Davis,Live Oak County,Arkansas,"Jan. 5, 1894",Stealing,"Live Oak County, Arkansas",,
+223,Henry Montgomery,Lewisburg,Tennessee,"April 18, 1894",Larceny,"Lewisburg, Tennessee",-86.7888887,35.4492404
+224,John Brownlee,Oxford,Alabama,"July 19, 1894",Political Causes,"Oxford, Alabama",-85.8349648,33.6142714
+225,Allen Myers,Rankin County,Mississippi,"July 20, 1894",Conjuring,"Rankin County, Mississippi",-89.9253233,32.2653668
+226,Frank Ballard,Jackson,Tennessee,"June 1, 1894",Attempted Murder,"Jackson, Tennessee",-88.8139469,35.6145169
+227,Negro,Selma,Alabama,"April 5, 1894",Alleged Murder,"Selma, Alabama",-87.0211007,32.4073589
+228,Samuel Wood,Gates City,Virginia,"May 17, 1894",Without Cause,"Gates City, Virginia",-82.5809876,36.6378774
+229,"Thomas Black, John Williams, Toney Johnson",Tuscumbia,Alabama,"April 22, 1894",Barn Burning,"Tuscumbia, Alabama",-87.70253,34.7312005
+230,William Bell,Dixon,Tennessee,"July 14, 1894",Barn Burning,"Dixon, Tennessee",-87.3877899,36.0770048
+231,"Daniel Hawkins, Robert Haynes, Warner Williams, Edward Hall, John Haynes, Graham White",Millington,Tennessee,"Sept. 1, 1894",Barn Burning,"Millington, Tennessee",-89.8973084,35.3414744
+232,William Brooks,Galesline,Arkansas,"May 23, 1894",Asking White Woman to Marry Him,"Galesline, Arkansas",-91.8318334,35.20105

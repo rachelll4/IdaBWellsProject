@@ -31,3 +31,10 @@ jobs:
           build_script.bat > build_log.txt
         shell: cmd
         
+      - name: Commit and push build_log.txt
+        run: |-
+          git config --global user.email "build-script-bot@example.com"
+          git config --global user.name "README-bot"
+          git add README.md && git commit -m "Datasette website updated - see build_log.txt"
+          git push
+        

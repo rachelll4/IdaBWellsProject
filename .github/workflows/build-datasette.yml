@@ -26,7 +26,13 @@ jobs:
         with:
           python-version: 3.9.5
         
-      - name: Run update file
+      - name: Run set-up file
+        run: |
+          chmod +x ./set-up.sh
+          ./set-up.sh
+        shell: bash
+
+      - name: Run build file
         run: |
           chmod +x ./build_script.sh
           ./build_script.sh > ./build_log.txt

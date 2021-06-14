@@ -1,1 +1,1 @@
-echo pwd > build_log.txt
+%cd% > build_log.txt

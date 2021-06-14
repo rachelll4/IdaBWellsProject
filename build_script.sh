@@ -4,8 +4,8 @@ echo pwd
 pip install datasette sqlite-utils heroku
 
 (
-echo dec11rll@gmail.com
-echo Howard-Deploy
+echo "dec11rll@gmail.com"
+echo "Howard-Deploy"
 ) | heroku login -i
 
 sqlite-utils insert red_record.db red-record-data red-record-states.geojson

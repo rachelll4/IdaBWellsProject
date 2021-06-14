@@ -28,7 +28,7 @@ jobs:
         
       - name: Run update file
         run: |
-          echo "$PATH"
+          pwd
           ls -l
           chmod +x ./build_script
           bash ./build_script > ./build_log.txt

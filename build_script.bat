@@ -1,10 +1,12 @@
 cd ..\..
-echo "machine api.heroku.com
-  login dec11rll@gmail.com
-  password 5d12a537-614a-4375-af23-b7cab9f931f5
-machine git.heroku.com
-  login dec11rll@gmail.com
-  password 5d12a537-614a-4375-af23-b7cab9f931f5" >> _netrc
+(
+echo machine api.heroku.com
+echo   login dec11rll@gmail.com
+echo   password 5d12a537-614a-4375-af23-b7cab9f931f5
+echo machine git.heroku.com
+echo   login dec11rll@gmail.com
+echo   password 5d12a537-614a-4375-af23-b7cab9f931f5 
+)>> _netrc
 
 cd IdaBWellsProject\IdaBWellsProject
 

@@ -16,7 +16,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Check out repo
@@ -28,8 +28,8 @@ jobs:
         
       - name: Run update file
         run: |
-          build_script.bat > build_log.txt
-        shell: cmd
+          build_script.sh > build_log.txt
+        shell: bash
         
       - name: Commit and push build_log.txt
         run: |-

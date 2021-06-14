@@ -25,13 +25,9 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.9.5
-
-      - name: Load Python dependencies
-        run: |
-          pip install datasette sqlite-utils
-        shell: python
         
       - name: Run update file
         run: |
-          python build_script.py
+          build_script.bat > build_log.txt
+        shell: cmd
         

@@ -28,8 +28,6 @@ jobs:
         
       - name: Run update file
         run: |
-          pwd
-          ls -l
           chmod +x ./build_script.sh
           ./build_script.sh > ./build_log.txt
         shell: bash

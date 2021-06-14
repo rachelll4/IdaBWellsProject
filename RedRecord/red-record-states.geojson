@@ -1,0 +1,3717 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0950263,33.2617871 ]
+    },
+    "properties": {
+    "id":1,
+    "names":"Paul Hill, Paul Archer, William Archer, Emma Fair",
+    "city":"Carrollton",
+    "state":"Alabama",
+    "date":"Sept. 15, 1893",
+    "alleged_crime":"Arson",
+    "full_location":"Carrollton, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.9567485,32.4173651 ]
+    },
+    "properties": {
+    "id":2,
+    "names":"unknown negro",
+    "city":"Fannin",
+    "state":"Mississippi",
+    "date":"Dec. 23, 1893",
+    "alleged_crime":"Suspected Robbery",
+    "full_location":"Fannin, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5754699,30.9037995 ]
+    },
+    "properties": {
+    "id":3,
+    "names":"Calvin Thomas",
+    "city":"Brainbridge",
+    "state":"Georgia",
+    "date":"Dec. 25, 1893",
+    "alleged_crime":"Assault",
+    "full_location":"Brainbridge, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.0779129,32.1051567 ]
+    },
+    "properties": {
+    "id":4,
+    "names":"Tillman Green",
+    "city":"Columbia",
+    "state":"Louisiana",
+    "date":"Dec. 28, 1893",
+    "alleged_crime":"Attempted Assault",
+    "full_location":"Columbia, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.591058,30.5880468 ]
+    },
+    "properties": {
+    "id":5,
+    "names":"Patrick Wells",
+    "city":"Quincy",
+    "state":"Florida",
+    "date":"Jan. 26, 1893",
+    "alleged_crime":"Incendiarism",
+    "full_location":"Quincy, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.61667,33.72861 ]
+    },
+    "properties": {
+    "id":6,
+    "names":"Frank Harrell, William Filder",
+    "city":"Dickery",
+    "state":"Mississippi",
+    "date":"Feb. 9, 1893",
+    "alleged_crime":"Incendiarism",
+    "full_location":"Dickery, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2922989,37.2089572 ]
+    },
+    "properties": {
+    "id":7,
+    "names":"Richard Mays",
+    "city":"Springville",
+    "state":"Missouri",
+    "date":"Feb. 21, 1893",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Springville, Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0766113,33.5801103 ]
+    },
+    "properties": {
+    "id":8,
+    "names":"Dug Hazleton",
+    "city":"Carrollton",
+    "state":"Georgia",
+    "date":"Aug. 14, 1893",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Carrollton, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.835295,36.8650496 ]
+    },
+    "properties": {
+    "id":9,
+    "names":"Judge McNeil",
+    "city":"Cadiz",
+    "state":"Kentucky",
+    "date":"Sept. 1, 1893",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Cadiz, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.1633929,32.3212554 ]
+    },
+    "properties": {
+    "id":10,
+    "names":"Frank Smith",
+    "city":"Newton",
+    "state":"Mississippi",
+    "date":"Sept. 11, 1893",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Newton, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.3546719,37.8392052 ]
+    },
+    "properties": {
+    "id":11,
+    "names":"William Jackson",
+    "city":"Nevada",
+    "state":"Missouri",
+    "date":"Sept. 16, 1893",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Nevada, Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.9910942,31.872651 ]
+    },
+    "properties": {
+    "id":12,
+    "names":"Riley Gulley",
+    "city":"Pine Apple",
+    "state":"Alabama",
+    "date":"Sept. 19, 1893",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Pine Apple, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1013186,31.570169 ]
+    },
+    "properties": {
+    "id":13,
+    "names":"John Davis",
+    "city":"Shorterville",
+    "state":"Alabama",
+    "date":"Oct. 9, 1893",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Shorterville, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9320482,34.9495672 ]
+    },
+    "properties": {
+    "id":14,
+    "names":"Robert Kennedy",
+    "city":"Spartansburg",
+    "state":"South Carolina",
+    "date":"Nov. 8, 1893",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Spartansburg, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8084192,33.7690049 ]
+    },
+    "properties": {
+    "id":15,
+    "names":"Richard Forman",
+    "city":"Granada",
+    "state":"Mississippi",
+    "date":"Feb. 16, 1893",
+    "alleged_crime":"Burglary",
+    "full_location":"Granada, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1009108,30.4754702 ]
+    },
+    "properties": {
+    "id":16,
+    "names":"David Jackson",
+    "city":"Covington",
+    "state":"Louisiana",
+    "date":"Oct. 14, 1893",
+    "alleged_crime":"Wife Beating",
+    "full_location":"Covington, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9414266,37.2709704 ]
+    },
+    "properties": {
+    "id":17,
+    "names":"Thomas Smith",
+    "city":"Roanoke",
+    "state":"Virginia",
+    "date":"Sept. 21, 1893",
+    "alleged_crime":"Attempted Murder",
+    "full_location":"Roanoke, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.0211007,32.4073589 ]
+    },
+    "properties": {
+    "id":18,
+    "names":"four unknown negroes",
+    "city":"Selma",
+    "state":"Alabama",
+    "date":"Dec. 12, 1893",
+    "alleged_crime":"Attempted Robbery",
+    "full_location":"Selma, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5875764,33.0576295 ]
+    },
+    "properties": {
+    "id":19,
+    "names":"Thomas Carr",
+    "city":"Kosciusko",
+    "state":"Mississippi",
+    "date":"Jan. 30, 1893",
+    "alleged_crime":"Race Prejudice",
+    "full_location":"Kosciusko, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0389599,33.114742 ]
+    },
+    "properties": {
+    "id":20,
+    "names":"William Butler",
+    "city":"Hickory Creek",
+    "state":"Texas",
+    "date":"Feb. 7, 1893",
+    "alleged_crime":"Race Prejudice",
+    "full_location":"Hickory Creek, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.5300908,34.2340249 ]
+    },
+    "properties": {
+    "id":21,
+    "names":"Charles Tart",
+    "city":"Lyons Station",
+    "state":"Mississippi",
+    "date":"Aug. 27, 1893",
+    "alleged_crime":"Race Prejudice",
+    "full_location":"Lyons Station, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.8294002,35.2998913 ]
+    },
+    "properties": {
+    "id":22,
+    "names":"Robert Greenwood",
+    "city":"Cross county",
+    "state":"Arkansas",
+    "date":"Dec. 7, 1893",
+    "alleged_crime":"Race Prejudice",
+    "full_location":"Cross county, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6816927,38.7292137 ]
+    },
+    "properties": {
+    "id":23,
+    "names":"Allen Butler",
+    "city":"Lawrenceville",
+    "state":"Illinois",
+    "date":"July 14, 1893",
+    "alleged_crime":"Race Prejudice",
+    "full_location":"Lawrenceville, Illinois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2573608,32.4956504 ]
+    },
+    "properties": {
+    "id":24,
+    "names":"two unknown negroes",
+    "city":"Knox Point",
+    "state":"Louisiana",
+    "date":"Oct. 24, 1893",
+    "alleged_crime":"Thieves",
+    "full_location":"Knox Point, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1422464,37.4137536 ]
+    },
+    "properties": {
+    "id":25,
+    "names":"Edward Wagner, William Wagner, Samuel Motlow, Eliza Motlow",
+    "city":"Lynchburg",
+    "state":"Virginia",
+    "date":"Nov. 4, 1893",
+    "alleged_crime":"Alleged Barn Burning",
+    "full_location":"Lynchburg, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7913227,30.0179292 ]
+    },
+    "properties": {
+    "id":26,
+    "names":"Robert Landry, Chicken George, Richard Davis",
+    "city":"St. James Parish",
+    "state":"Louisiana",
+    "date":"Jan. 21, 1893",
+    "alleged_crime":"Alleged Murder",
+    "full_location":"St. James Parish, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.742767,34.182781 ]
+    },
+    "properties": {
+    "id":27,
+    "names":"Benjamin Menter, Robert Wilkins, Jospeh Gevhens",
+    "city":"Berlin",
+    "state":"Alabama",
+    "date":"Dec. 8, 1893",
+    "alleged_crime":"Alleged Murder",
+    "full_location":"Berlin, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1120696,29.6498691 ]
+    },
+    "properties": {
+    "id":28,
+    "names":"Valsin Julian, Basil Julian, Paul Julian, John Willis",
+    "city":"Jefferson Parish",
+    "state":"Louisiana",
+    "date":"Sept. 16, 1893",
+    "alleged_crime":"Alleged Complicity in Murder",
+    "full_location":"Jefferson Parish, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.091203,32.0808989 ]
+    },
+    "properties": {
+    "id":29,
+    "names":"Samuel Thorp",
+    "city":"Savannah",
+    "state":"Georgia",
+    "date":"June 29, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Savannah, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0156736,33.0898731 ]
+    },
+    "properties": {
+    "id":30,
+    "names":"George S. Riechen",
+    "city":"Waynesboro",
+    "state":"Georgia",
+    "date":"June 29, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Waynesboro, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3091383,34.91871 ]
+    },
+    "properties": {
+    "id":31,
+    "names":"Joseph Bird",
+    "city":"Wilberton",
+    "state":"Oklahoma",
+    "date":"June 30, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Wilberton, Oklahoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4339903,31.3702255 ]
+    },
+    "properties": {
+    "id":32,
+    "names":"James Lamar",
+    "city":"Darien",
+    "state":"Georgia",
+    "date":"July 1, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Darien, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "id":33,
+    "names":"Henry Miller",
+    "city":"Dallas",
+    "state":"Texas",
+    "date":"July 28, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Dallas, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6667688,32.9051704 ]
+    },
+    "properties": {
+    "id":34,
+    "names":"Ada Hiers",
+    "city":"Walterboro",
+    "state":"South Carolina",
+    "date":"July 28, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Walterboro, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3152701,30.1104947 ]
+    },
+    "properties": {
+    "id":35,
+    "names":"Alexander Brown",
+    "city":"Bastrop",
+    "state":"Texas",
+    "date":"July 28, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Bastrop, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4098726,39.9356016 ]
+    },
+    "properties": {
+    "id":36,
+    "names":"W.G. Jamison",
+    "city":"Quincy",
+    "state":"Illinois",
+    "date":"July 30, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Quincy, Illinois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0142597,34.4990116 ]
+    },
+    "properties": {
+    "id":37,
+    "names":"John Ferguson",
+    "city":"Lawrens",
+    "state":"South Carolina",
+    "date":"Sept. 1, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Lawrens, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0087746,33.1260618 ]
+    },
+    "properties": {
+    "id":38,
+    "names":"Oscar Johnston",
+    "city":"Berkeley",
+    "state":"South Carolina",
+    "date":"Sept. 1, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Berkeley, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0087746,33.1260618 ]
+    },
+    "properties": {
+    "id":39,
+    "names":"Henry Ewing",
+    "city":"Berkeley",
+    "state":"South Carolina",
+    "date":"Sept. 1, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Berkeley, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.8343294,33.5845581 ]
+    },
+    "properties": {
+    "id":40,
+    "names":"William Smith",
+    "city":"Camden",
+    "state":"Arkansas",
+    "date":"Sept. 8, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Camden, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.1872475,32.5843025 ]
+    },
+    "properties": {
+    "id":41,
+    "names":"Staples Green",
+    "city":"Livingston",
+    "state":"Alabama",
+    "date":"Sept. 15, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Livingston, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5945783,32.1785145 ]
+    },
+    "properties": {
+    "id":42,
+    "names":"Hiram Jacobs, Lucien Mannet, Hire Bevington, Weldon Gordon, Parse Strickland,",
+    "city":"Mount Vernon",
+    "state":"Georgia",
+    "date":"Sept. 29, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Mount Vernon, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7999382,34.1650972 ]
+    },
+    "properties": {
+    "id":43,
+    "names":"William Dalton",
+    "city":"Cartersville",
+    "state":"Georgia",
+    "date":"Oct. 20, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Cartersville, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5797576,36.9768562 ]
+    },
+    "properties": {
+    "id":44,
+    "names":"M.B. Taylor",
+    "city":"Wise Court House",
+    "state":"Virginia",
+    "date":"Oct. 27, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Wise Court House, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.467944,33.5956813 ]
+    },
+    "properties": {
+    "id":45,
+    "names":"Isaac Williams",
+    "city":"Madison",
+    "state":"Georgia",
+    "date":"Oct. 27, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Madison, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.9476887,34.0265019 ]
+    },
+    "properties": {
+    "id":46,
+    "names":"Miller Davis",
+    "city":"Center Point",
+    "state":"Arkansas",
+    "date":"Nov. 10, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Center Point, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5660529,42.9317335 ]
+    },
+    "properties": {
+    "id":47,
+    "names":"John Johnston",
+    "city":"Auburn",
+    "state":"New York",
+    "date":"Nov. 14, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Auburn, New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.8440011,33.5179148 ]
+    },
+    "properties": {
+    "id":48,
+    "names":"Calvin Stewart",
+    "city":"Langley",
+    "state":"South Carolina",
+    "date":"Sept. 27, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Langley, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.097726,33.1928378 ]
+    },
+    "properties": {
+    "id":49,
+    "names":"Henry Coleman",
+    "city":"Denton",
+    "state":"Louisiana",
+    "date":"Sept. 29, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Denton, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3477343,34.480642 ]
+    },
+    "properties": {
+    "id":50,
+    "names":"William Richards, James Dickson",
+    "city":"Summerfield",
+    "state":"Georgia",
+    "date":"Oct. 18, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Summerfield, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.375233,33.5571944 ]
+    },
+    "properties": {
+    "id":51,
+    "names":"Edward Jenkins",
+    "city":"Clayton county",
+    "state":"Georgia",
+    "date":"Oct. 27, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Clayton county, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7137327,29.9232908 ]
+    },
+    "properties": {
+    "id":52,
+    "names":"Henry Boggs",
+    "city":"Fort White",
+    "state":"Florida",
+    "date":"Nov. 9, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Fort White, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6392899,30.1896756 ]
+    },
+    "properties": {
+    "id":53,
+    "names":"three unknown negroes",
+    "city":"Lake City Junction",
+    "state":"Florida",
+    "date":"Nov. 14, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Lake City Junction, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1526953,34.4828041 ]
+    },
+    "properties": {
+    "id":54,
+    "names":"D.T. Nelson",
+    "city":"Varney",
+    "state":"Arkansas",
+    "date":"Nov. 14, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Varney, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3484618,31.7782514 ]
+    },
+    "properties": {
+    "id":55,
+    "names":"Newton Jones",
+    "city":"Baxley",
+    "state":"Georgia",
+    "date":"Nov. 29, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Baxley, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4374232,33.0912359 ]
+    },
+    "properties": {
+    "id":56,
+    "names":"Lucius Holt",
+    "city":"Concord",
+    "state":"Georgia",
+    "date":"Dec. 2, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Concord, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.0549866,32.1140327 ]
+    },
+    "properties": {
+    "id":57,
+    "names":"two unknown negroes",
+    "city":"Richmond",
+    "state":"Alabama",
+    "date":"Dec. 10, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Richmond, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4272627,33.4956744 ]
+    },
+    "properties": {
+    "id":58,
+    "names":"Henry Fleming",
+    "city":"Columbus",
+    "state":"Mississippi",
+    "date":"July 12, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Columbus, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2769208,33.4228862 ]
+    },
+    "properties": {
+    "id":59,
+    "names":"unknown negro",
+    "city":"Briar Field",
+    "state":"Alabama",
+    "date":"July 17, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Briar Field, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.5117599,30.7649069 ]
+    },
+    "properties": {
+    "id":60,
+    "names":"Meredith Lewis",
+    "city":"Roseland",
+    "state":"Louisiana",
+    "date":"July 18, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Roseland, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.7081122,36.2914512 ]
+    },
+    "properties": {
+    "id":61,
+    "names":"Edward Bill",
+    "city":"Dresden",
+    "state":"Tennessee",
+    "date":"July 29, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Dresden, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.460397,36.4960406 ]
+    },
+    "properties": {
+    "id":62,
+    "names":"Henry Reynolds",
+    "city":"Montgomery",
+    "state":"Tennessee",
+    "date":"Aug. 1, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Montgomery, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.8318334,35.20105 ]
+    },
+    "properties": {
+    "id":63,
+    "names":"unknown negro",
+    "city":"McCreery",
+    "state":"Arkansas",
+    "date":"Aug. 9, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"McCreery, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9281833,29.9591183 ]
+    },
+    "properties": {
+    "id":64,
+    "names":"unknown negro",
+    "city":"Brantford",
+    "state":"Florida",
+    "date":"Aug. 12, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Brantford, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9166915,37.6833776 ]
+    },
+    "properties": {
+    "id":65,
+    "names":"Charles Walton",
+    "city":"Morganfield",
+    "state":"Kentucky",
+    "date":"Aug. 18, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Morganfield, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0489801,35.1495343 ]
+    },
+    "properties": {
+    "id":66,
+    "names":"Charles Tait",
+    "city":"Memphis",
+    "state":"Tennessee",
+    "date":"Aug. 21, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Memphis, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1696768,38.4334003 ]
+    },
+    "properties": {
+    "id":67,
+    "names":"Leonard Taylor",
+    "city":"New Castle",
+    "state":"Kentucky",
+    "date":"Aug. 28, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"New Castle, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.3669845,33.9098321 ]
+    },
+    "properties": {
+    "id":68,
+    "names":"Benjamin Jackson",
+    "city":"Quincy",
+    "state":"Mississippi",
+    "date":"Sept. 8, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Quincy, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.8139469,35.6145169 ]
+    },
+    "properties": {
+    "id":69,
+    "names":"John Williams",
+    "city":"Jackson",
+    "state":"Tennessee",
+    "date":"Sept. 14, 1893",
+    "alleged_crime":"Murder",
+    "full_location":"Jackson, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.7389424,36.6422806 ]
+    },
+    "properties": {
+    "id":70,
+    "names":"unknown negro",
+    "city":"Wingo",
+    "state":"Kentucky",
+    "date":"July 30, 1893",
+    "alleged_crime":"Self Defense",
+    "full_location":"Wingo, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.5983959,32.0737103 ]
+    },
+    "properties": {
+    "id":71,
+    "names":"two unknown negroes",
+    "city":"Franklin Parish",
+    "state":"Louisiana",
+    "date":"Aug. 18, 1893",
+    "alleged_crime":"Poisoning Wells",
+    "full_location":"Franklin Parish, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1848103,32.2987573 ]
+    },
+    "properties": {
+    "id":72,
+    "names":"Benjamin Jackson,",
+    "city":"Jackson",
+    "state":"Mississippi",
+    "date":"Sept. 15, 1893",
+    "alleged_crime":"Alleged Well Poisoning",
+    "full_location":"Jackson, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1848103,32.2987573 ]
+    },
+    "properties": {
+    "id":73,
+    "names":"Mahala Jackson",
+    "city":"Jackson",
+    "state":"Mississippi",
+    "date":"Sept. 15, 1893",
+    "alleged_crime":"Alleged Well Poisoning",
+    "full_location":"Jackson, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1848103,32.2987573 ]
+    },
+    "properties": {
+    "id":74,
+    "names":"Louisa Carter",
+    "city":"Jackson",
+    "state":"Mississippi",
+    "date":"Sept. 15, 1893",
+    "alleged_crime":"Alleged Well Poisoning",
+    "full_location":"Jackson, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1848103,32.2987573 ]
+    },
+    "properties": {
+    "id":75,
+    "names":"W.A. Haley",
+    "city":"Jackson",
+    "state":"Mississippi",
+    "date":"Sept. 15, 1893",
+    "alleged_crime":"Alleged Well Poisoning",
+    "full_location":"Jackson, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1848103,32.2987573 ]
+    },
+    "properties": {
+    "id":76,
+    "names":"Rufus Bigley",
+    "city":"Jackson",
+    "state":"Mississippi",
+    "date":"Sept. 15, 1893",
+    "alleged_crime":"Alleged Well Poisoning",
+    "full_location":"Jackson, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.4382367,39.4183689 ]
+    },
+    "properties": {
+    "id":77,
+    "names":"John Hughes",
+    "city":"Moberly",
+    "state":"Missouri",
+    "date":"Feb. 18, 1893",
+    "alleged_crime":"Insulting Whites",
+    "full_location":"Moberly, Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2079355,34.6323195 ]
+    },
+    "properties": {
+    "id":78,
+    "names":"Isaac Lincoln",
+    "city":"Fort Madison",
+    "state":"South Carolina",
+    "date":"June 2, 1893",
+    "alleged_crime":"Insulting Whites",
+    "full_location":"Fort Madison, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6114237,38.8402805 ]
+    },
+    "properties": {
+    "id":79,
+    "names":"Daniel Adams",
+    "city":"Selina",
+    "state":"Kansas",
+    "date":"April 20, 1893",
+    "alleged_crime":"Murderous Assault",
+    "full_location":"Selina, Kansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.9253233,35.1268552 ]
+    },
+    "properties": {
+    "id":80,
+    "names":"Charles Martin",
+    "city":"Shelby Co.",
+    "state":"Tennessee",
+    "date":"July 21, 1893",
+    "alleged_crime":"No Offense",
+    "full_location":"Shelby Co., Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4598017,34.1787205 ]
+    },
+    "properties": {
+    "id":81,
+    "names":"William Steen",
+    "city":"Paris",
+    "state":"Mississippi",
+    "date":"July 30, 1893",
+    "alleged_crime":"No Offense",
+    "full_location":"Paris, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3766526,27.2064354 ]
+    },
+    "properties": {
+    "id":82,
+    "names":"unknown negro",
+    "city":"Yarborough",
+    "state":"Texas",
+    "date":"Aug. 31, 1893",
+    "alleged_crime":"No Offense",
+    "full_location":"Yarborough, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "id":83,
+    "names":"unknown negro",
+    "city":"Houston",
+    "state":"Texas",
+    "date":"Sept. 30, 1893",
+    "alleged_crime":"No Offense",
+    "full_location":"Houston, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2571786,31.5823832 ]
+    },
+    "properties": {
+    "id":84,
+    "names":"Mack Segars",
+    "city":"Brantley",
+    "state":"Alabama",
+    "date":"Dec. 28, 1893",
+    "alleged_crime":"No Offense",
+    "full_location":"Brantley, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0097869,36.8706111 ]
+    },
+    "properties": {
+    "id":85,
+    "names":"Charles T. Miller",
+    "city":"Bardwell",
+    "state":"Kentucky",
+    "date":"July 7, 1893",
+    "alleged_crime":"Alleged Rape",
+    "full_location":"Bardwell, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3540178,31.2135511 ]
+    },
+    "properties": {
+    "id":86,
+    "names":"Daniel Lewis, James Taylor, John Chambers",
+    "city":"Waycross",
+    "state":"Georgia",
+    "date":"Aug. 10, 1893",
+    "alleged_crime":"Alleged Rape",
+    "full_location":"Waycross, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6427843,37.383656 ]
+    },
+    "properties": {
+    "id":87,
+    "names":"Henry G. Givens",
+    "city":"Nebro",
+    "state":"Kentucky",
+    "date":"Dec. 16, 1893",
+    "alleged_crime":"Alleged Stock Poisoning",
+    "full_location":"Nebro, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.7773051,33.1970719 ]
+    },
+    "properties": {
+    "id":88,
+    "names":"Sloan Allen",
+    "city":"West Mississippi",
+    "state":"Mississippi",
+    "date":"Dec. 23, 1893",
+    "alleged_crime":"Suspected Murder",
+    "full_location":"West Mississippi, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3096801,35.0456297 ]
+    },
+    "properties": {
+    "id":89,
+    "names":"Andy Blount",
+    "city":"Chattanooga",
+    "state":"Tennessee",
+    "date":"Feb. 14, 1893",
+    "alleged_crime":"Suspicion of Rape",
+    "full_location":"Chattanooga, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4234936,31.1371358 ]
+    },
+    "properties": {
+    "id":90,
+    "names":"William Ferguson",
+    "city":"Adele",
+    "state":"Georgia",
+    "date":"Dec. 19, 1893",
+    "alleged_crime":"Turning States Evidence",
+    "full_location":"Adele, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0900762,33.3339954 ]
+    },
+    "properties": {
+    "id":91,
+    "names":"James Williams",
+    "city":"Pickens Co.",
+    "state":"Alabama",
+    "date":"Jan. 19, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Pickens Co., Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.844167,36.0683932 ]
+    },
+    "properties": {
+    "id":92,
+    "names":"unknown negro",
+    "city":"Forest Hill",
+    "state":"Tennessee",
+    "date":"Feb. 11, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Forest Hill, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9158141,35.9617285 ]
+    },
+    "properties": {
+    "id":93,
+    "names":"Joseph Hayne",
+    "city":"Paine Jellico",
+    "state":"Tennessee",
+    "date":"Feb. 26, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Paine Jellico, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.831587,37.9993993 ]
+    },
+    "properties": {
+    "id":94,
+    "names":"Abner Anthony",
+    "city":"Hot Springs",
+    "state":"Virginia",
+    "date":"Nov. 1, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Hot Springs, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8210512,34.7581366 ]
+    },
+    "properties": {
+    "id":95,
+    "names":"homas Hill",
+    "city":"Spring Place",
+    "state":"Georgia",
+    "date":"Nov. 1, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Spring Place, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1423236,33.3226546 ]
+    },
+    "properties": {
+    "id":96,
+    "names":"John Peterson",
+    "city":"Denmark",
+    "state":"South Carolina",
+    "date":"April 24, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Denmark, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9651152,33.5018026 ]
+    },
+    "properties": {
+    "id":97,
+    "names":"Samuel Gaillard",
+    "city":"NA",
+    "state":"South Carolina",
+    "date":"May 6, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"NA, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0299186,33.9937575 ]
+    },
+    "properties": {
+    "id":98,
+    "names":"Haywood Banks",
+    "city":"Marksdale Columbia",
+    "state":"South Carolina",
+    "date":"May 10, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Marksdale Columbia, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.0274993,29.9382674 ]
+    },
+    "properties": {
+    "id":99,
+    "names":"Israel Halliway",
+    "city":"Napoleonville",
+    "state":"Louisiana",
+    "date":"May 12, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Napoleonville, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.084811,36.9484528 ]
+    },
+    "properties": {
+    "id":100,
+    "names":"unknown negro",
+    "city":"Wytheville",
+    "state":"Virginia",
+    "date":"May 12, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Wytheville, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.1721495,36.3761865 ]
+    },
+    "properties": {
+    "id":101,
+    "names":"John Wallace",
+    "city":"Jefferson Springs",
+    "state":"Arkansas",
+    "date":"May 31, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Jefferson Springs, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.9548001,39.8403147 ]
+    },
+    "properties": {
+    "id":102,
+    "names":"Samuel Bush",
+    "city":"Decatur",
+    "state":"Illinois",
+    "date":"June 3, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Decatur, Illinois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.6125545,36.2136731 ]
+    },
+    "properties": {
+    "id":103,
+    "names":"L.C. Dumas",
+    "city":"Gleason",
+    "state":"Tennessee",
+    "date":"June 8, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Gleason, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.1633341,39.1856597 ]
+    },
+    "properties": {
+    "id":104,
+    "names":"William Shorter",
+    "city":"Winchester",
+    "state":"Virginia",
+    "date":"June 13, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Winchester, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1466695,31.549333 ]
+    },
+    "properties": {
+    "id":105,
+    "names":"George Williams",
+    "city":"Waco",
+    "state":"Texas",
+    "date":"June 14, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Waco, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.0211007,32.4073589 ]
+    },
+    "properties": {
+    "id":106,
+    "names":"Daniel Edwards",
+    "city":"Selina or Selma",
+    "state":"Alabama",
+    "date":"June 24, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Selina or Selma, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7129908,31.3101719 ]
+    },
+    "properties": {
+    "id":107,
+    "names":"Ernest Murphy",
+    "city":"Daleville",
+    "state":"Alabama",
+    "date":"June 27, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Daleville, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1288646,30.8528091 ]
+    },
+    "properties": {
+    "id":108,
+    "names":"unknown negro, unknown negro",
+    "city":"Poplar Head",
+    "state":"Louisiana",
+    "date":"July 6, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Poplar Head, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.9018131,31.9685988 ]
+    },
+    "properties": {
+    "id":109,
+    "names":"Robert Larkin",
+    "city":"Oscola",
+    "state":"Texas",
+    "date":"July 12, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Oscola, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0135229,33.5592794 ]
+    },
+    "properties": {
+    "id":110,
+    "names":"Warren Dean",
+    "city":"Stone Creek",
+    "state":"Georgia",
+    "date":"July 17, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Stone Creek, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9281833,29.9591183 ]
+    },
+    "properties": {
+    "id":111,
+    "names":"unknown negro",
+    "city":"Brantford",
+    "state":"Florida",
+    "date":"July 21, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Brantford, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1296628,39.6639934 ]
+    },
+    "properties": {
+    "id":112,
+    "names":"John Cotton",
+    "city":"Connersville",
+    "state":"Arkansas",
+    "date":"July 17, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Connersville, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0078418,34.4942683 ]
+    },
+    "properties": {
+    "id":113,
+    "names":"Lee Walker",
+    "city":"New Albany",
+    "state":"Mississippi",
+    "date":"July 22, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"New Albany, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0978734,33.7382088 ]
+    },
+    "properties": {
+    "id":114,
+    "names":"Handy",
+    "city":"Suansea",
+    "state":"South Carolina",
+    "date":"July 26, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Suansea, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0348144,34.0007104 ]
+    },
+    "properties": {
+    "id":115,
+    "names":"William Thompson, Thomas Preston, Handy Kaigler",
+    "city":"Columbia",
+    "state":"South Carolina",
+    "date":"July 30, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Columbia, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7535975,33.1028965 ]
+    },
+    "properties": {
+    "id":116,
+    "names":"Isaac Harper",
+    "city":"Calera",
+    "state":"Alabama",
+    "date":"July 28, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Calera, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7619464,31.8337654 ]
+    },
+    "properties": {
+    "id":117,
+    "names":"Monroe Smith",
+    "city":"Springfield",
+    "state":"Alabama",
+    "date":"Aug. 13, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Springfield, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.6000478,37.0833893 ]
+    },
+    "properties": {
+    "id":118,
+    "names":"negro tramp",
+    "city":"Paducah",
+    "state":"Kentucky",
+    "date":"Aug. 19, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Paducah, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.9224637,39.3111112 ]
+    },
+    "properties": {
+    "id":119,
+    "names":"John Nilson",
+    "city":"Leavenworth",
+    "state":"Kansas",
+    "date":"Aug. 21, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Leavenworth, Kansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1617883,34.1954001 ]
+    },
+    "properties": {
+    "id":120,
+    "names":"Jacob Davis",
+    "city":"Green Wood",
+    "state":"South Carolina",
+    "date":"Aug. 23, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Green Wood, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7567623,37.4563549 ]
+    },
+    "properties": {
+    "id":121,
+    "names":"William Arkinson",
+    "city":"McKenney",
+    "state":"Kentucky",
+    "date":"Sept. 2, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"McKenney, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.1386067,32.9445682 ]
+    },
+    "properties": {
+    "id":122,
+    "names":"unknown negro",
+    "city":"Centerville",
+    "state":"Alabama",
+    "date":"Sept. 16, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Centerville, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9805478,37.3426037 ]
+    },
+    "properties": {
+    "id":123,
+    "names":"Jessie Mitchell",
+    "city":"Amelia C.H.",
+    "state":"Virginia",
+    "date":"Sept. 16, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Amelia C.H., Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.4154787,33.4598415 ]
+    },
+    "properties": {
+    "id":124,
+    "names":"Perry Bratcher",
+    "city":"New Boston",
+    "state":"Texas",
+    "date":"Sept. 25, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"New Boston, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.2775053,33.8312185 ]
+    },
+    "properties": {
+    "id":125,
+    "names":"William Lacey",
+    "city":"Jasper",
+    "state":"Alabama",
+    "date":"Oct. 9, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Jasper, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1888498,35.6056231 ]
+    },
+    "properties": {
+    "id":126,
+    "names":"John Gamble",
+    "city":"Pikesville",
+    "state":"Tennessee",
+    "date":"Oct. 22, 1893",
+    "alleged_crime":"Rape",
+    "full_location":"Pikesville, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6177517,31.8295972 ]
+    },
+    "properties": {
+    "id":127,
+    "names":"Samuel Smith",
+    "city":"Greenville",
+    "state":"Alabama",
+    "date":"Jan. 9, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Greenville, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4736019,38.7328304 ]
+    },
+    "properties": {
+    "id":128,
+    "names":"Sherman Wagoner",
+    "city":"Mitchell",
+    "state":"Indiana",
+    "date":"Jan. 11, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Mitchell, Indiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5451934,38.7945166 ]
+    },
+    "properties": {
+    "id":129,
+    "names":"Roscoe Parker",
+    "city":"West Union",
+    "state":"Ohio",
+    "date":"Jan. 12, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"West Union, Ohio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6966698,38.4308305 ]
+    },
+    "properties": {
+    "id":130,
+    "names":"Henry Bruce",
+    "city":"Gulch Co.",
+    "state":"Arkansas",
+    "date":"Feb. 7, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Gulch Co., Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1090083,32.1813013 ]
+    },
+    "properties": {
+    "id":131,
+    "names":"Sylvester Rhodes",
+    "city":"Collins",
+    "state":"Georgia",
+    "date":"March 5, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Collins, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1946248,40.9867609 ]
+    },
+    "properties": {
+    "id":132,
+    "names":"Richard Puryea",
+    "city":"Stroudsburg",
+    "state":"Pennsylvania",
+    "date":"March 15, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Stroudsburg, Pennsylvania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.3077368,32.3792233 ]
+    },
+    "properties": {
+    "id":133,
+    "names":"Oliver Jackson",
+    "city":"Montgomery",
+    "state":"Alabama",
+    "date":"March 29, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Montgomery, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.8150775,32.1968547 ]
+    },
+    "properties": {
+    "id":134,
+    "names":"Saybrick",
+    "city":"Fisher's Ferry",
+    "state":"Mississippi",
+    "date":"March 30, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Fisher's Ferry, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9594239,34.877861 ]
+    },
+    "properties": {
+    "id":135,
+    "names":"William Lewis",
+    "city":"Lanison",
+    "state":"Alabama",
+    "date":"April 14, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Lanison, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.8088504,37.3458874 ]
+    },
+    "properties": {
+    "id":136,
+    "names":"Jefferson Luggle",
+    "city":"Cherokee",
+    "state":"Kansas",
+    "date":"April 23, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Cherokee, Kansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.1867771,32.4084765 ]
+    },
+    "properties": {
+    "id":137,
+    "names":"Samuel Slaugate, Thomas Claxton, David Hawkins,",
+    "city":"Tallulah",
+    "state":"Louisiana",
+    "date":"April 23, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Tallulah, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.1867771,32.4084765 ]
+    },
+    "properties": {
+    "id":138,
+    "names":"Thel Claxton, Comp Claxton, Scot Harvey, Jerry McCly",
+    "city":"Tallulah",
+    "state":"Louisiana",
+    "date":"April 27, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Tallulah, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.3451926,32.7573626 ]
+    },
+    "properties": {
+    "id":139,
+    "names":"Henry Scott",
+    "city":"Jefferson",
+    "state":"Texas",
+    "date":"May 17, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Jefferson, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1845112,28.2597342 ]
+    },
+    "properties": {
+    "id":140,
+    "names":"Coat Williams",
+    "city":"Pine Grove",
+    "state":"Florida",
+    "date":"May 15, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Pine Grove, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0475656,34.6412667 ]
+    },
+    "properties": {
+    "id":141,
+    "names":"Jefferson Crawford",
+    "city":"Bethesda",
+    "state":"South Carolina",
+    "date":"June 2, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Bethesda, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1193012,32.5093109 ]
+    },
+    "properties": {
+    "id":142,
+    "names":"Thondo Underwood",
+    "city":"Monroe",
+    "state":"Louisiana",
+    "date":"June 4, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Monroe, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.0174336,37.267916 ]
+    },
+    "properties": {
+    "id":143,
+    "names":"Isaac Kemp",
+    "city":"Cape Charles",
+    "state":"Virginia",
+    "date":"June 8, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Cape Charles, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.5797987,32.9222217 ]
+    },
+    "properties": {
+    "id":144,
+    "names":"Lon Hall, Bascom Cook",
+    "city":"Sweethouse",
+    "state":"Texas",
+    "date":"June 13, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Sweethouse, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.8853078,30.3960318 ]
+    },
+    "properties": {
+    "id":145,
+    "names":"Luke Thomas",
+    "city":"Biloxi",
+    "state":"Mississippi",
+    "date":"June 15, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Biloxi, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6010668,33.1384479 ]
+    },
+    "properties": {
+    "id":146,
+    "names":"John Williams",
+    "city":"Sulphur",
+    "state":"Texas",
+    "date":"June 29, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Sulphur, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.9277071,36.9289502 ]
+    },
+    "properties": {
+    "id":147,
+    "names":"Ulysses Hayden",
+    "city":"Monett",
+    "state":"Missouri",
+    "date":"June 29, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Monett, Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.8294002,31.1683803 ]
+    },
+    "properties": {
+    "id":148,
+    "names":"Hood",
+    "city":"Amite",
+    "state":"Mississippi",
+    "date":"July 6, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Amite, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.3397319,36.1772797 ]
+    },
+    "properties": {
+    "id":149,
+    "names":"James Bell",
+    "city":"Charlotte",
+    "state":"Tennessee",
+    "date":"July 7, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Charlotte, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4109363,37.3856708 ]
+    },
+    "properties": {
+    "id":150,
+    "names":"Henderson Hollander",
+    "city":"Elkhorn",
+    "state":"West Virginia",
+    "date":"Sept. 2, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Elkhorn, West Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.637215,31.4808983 ]
+    },
+    "properties": {
+    "id":151,
+    "names":"Robert Williams",
+    "city":"Concordia Parish",
+    "state":"Louisiana",
+    "date":"Sept. 14, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Concordia Parish, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.3945566,33.6255234 ]
+    },
+    "properties": {
+    "id":152,
+    "names":"Luke Washington, Richard Washington, Henry Crobyson",
+    "city":"Meghee",
+    "state":"Arkansas",
+    "date":"Sept. 22, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Meghee, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.014971,38.0009684 ]
+    },
+    "properties": {
+    "id":153,
+    "names":"Lawrence Younger",
+    "city":"Lloyd",
+    "state":"Virginia",
+    "date":"Nov. 10, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Lloyd, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4779053,34.6184471 ]
+    },
+    "properties": {
+    "id":154,
+    "names":"unknown Negro",
+    "city":"Williamston",
+    "state":"South Carolina",
+    "date":"Dec. 17, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Williamston, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5496566,30.8730159 ]
+    },
+    "properties": {
+    "id":155,
+    "names":"Samuel Taylor, Charles Frazier, Samuel Pike, Harry Sherard, unknown Negro, unknown, Negro, unknown Negro",
+    "city":"Brooks County",
+    "state":"Georgia",
+    "date":"Dec. 23, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Brooks County, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0179332,33.1650338 ]
+    },
+    "properties": {
+    "id":156,
+    "names":"Daniel McDonald, William Carter",
+    "city":"Winston County",
+    "state":"Mississippi",
+    "date":"Dec. 26, 1894",
+    "alleged_crime":"Murder",
+    "full_location":"Winston County, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.4926214,38.5492204 ]
+    },
+    "properties": {
+    "id":157,
+    "names":"John Buckner",
+    "city":"Valley Park",
+    "state":"Missouri",
+    "date":"Jan. 17, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Valley Park, Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2333333,36.6877778 ]
+    },
+    "properties": {
+    "id":158,
+    "names":"M.G. Cambell",
+    "city":"Jellico Mines",
+    "state":"Kentucky",
+    "date":"Jan. 21, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Jellico Mines, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.7957591,36.9639476 ]
+    },
+    "properties": {
+    "id":159,
+    "names":"unknown",
+    "city":"Verona",
+    "state":"Missouri",
+    "date":"Jan. 27, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Verona, Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3140995,36.4175798 ]
+    },
+    "properties": {
+    "id":160,
+    "names":"Henry McCreeg",
+    "city":"Pioneer",
+    "state":"Tennessee",
+    "date":"Feb. 1, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Pioneer, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1823789,33.5756831 ]
+    },
+    "properties": {
+    "id":161,
+    "names":"Daniel Ahren",
+    "city":"Greensboro",
+    "state":"Georgia",
+    "date":"April 6, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Greensboro, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6699311,40.461442 ]
+    },
+    "properties": {
+    "id":162,
+    "names":"Seymour Newland",
+    "city":"Rushsylvania",
+    "state":"Ohio",
+    "date":"April 15, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Rushsylvania, Ohio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6523294,31.2518938 ]
+    },
+    "properties": {
+    "id":163,
+    "names":"Robert Evarts",
+    "city":"Jamaica",
+    "state":"Georgia",
+    "date":"April 26, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Jamaica, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4752667,38.7509488 ]
+    },
+    "properties": {
+    "id":164,
+    "names":"James Robinson, Benjamin White",
+    "city":"Manassas",
+    "state":"Virginia",
+    "date":"April 27, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Manassas, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1400923,29.1871986 ]
+    },
+    "properties": {
+    "id":165,
+    "names":"Nim Young",
+    "city":"Ocala",
+    "state":"Florida",
+    "date":"May 15, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Ocala, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7315563,31.2008218 ]
+    },
+    "properties": {
+    "id":166,
+    "names":"unknown",
+    "city":"Miller County",
+    "state":"Georgia",
+    "date":"May 22, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Miller County, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.2420661,31.3060513 ]
+    },
+    "properties": {
+    "id":167,
+    "names":"unknown",
+    "city":"Blackshear",
+    "state":"Georgia",
+    "date":"June 13, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Blackshear, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.938242,33.0342974 ]
+    },
+    "properties": {
+    "id":168,
+    "names":"Owen Opliltree",
+    "city":"Forsyth",
+    "state":"Georgia",
+    "date":"June 18, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Forsyth, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.239334,33.2670725 ]
+    },
+    "properties": {
+    "id":169,
+    "names":"Henry Capus",
+    "city":"Magnolia",
+    "state":"Arkansas",
+    "date":"June 22, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Magnolia, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4808043,36.9685219 ]
+    },
+    "properties": {
+    "id":170,
+    "names":"Caleb Godly",
+    "city":"Bowling Green",
+    "state":"Kentucky",
+    "date":"June 26, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Bowling Green, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7031896,33.2198688 ]
+    },
+    "properties": {
+    "id":171,
+    "names":"Fayette Franklin",
+    "city":"Mitchell",
+    "state":"Georgia",
+    "date":"June 28, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Mitchell, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.0482327,38.7382422 ]
+    },
+    "properties": {
+    "id":172,
+    "names":"Joseph Johnson",
+    "city":"Hiller's Creek",
+    "state":"Missouri",
+    "date":"July 2, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Hiller's Creek, Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5455347,32.7751276 ]
+    },
+    "properties": {
+    "id":173,
+    "names":"Lewis Bankhead",
+    "city":"Cooper",
+    "state":"Alabama",
+    "date":"July 6, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Cooper, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1905424,36.7533781 ]
+    },
+    "properties": {
+    "id":174,
+    "names":"Marion Howard",
+    "city":"Scottsville",
+    "state":"Kentucky",
+    "date":"July 16, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Scottsville, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.4148791,30.7753454 ]
+    },
+    "properties": {
+    "id":175,
+    "names":"William Griffith",
+    "city":"Woodville",
+    "state":"Texas",
+    "date":"July 20, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Woodville, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5425786,35.0484242 ]
+    },
+    "properties": {
+    "id":176,
+    "names":"William Nershbread",
+    "city":"Rossville",
+    "state":"Tennessee",
+    "date":"Aug. 12, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Rossville, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8732835,38.2009055 ]
+    },
+    "properties": {
+    "id":177,
+    "names":"Marshall Boston",
+    "city":"Frankfort",
+    "state":"Kentucky",
+    "date":"Aug. 14, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Frankfort, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "id":178,
+    "names":"David Gooseby",
+    "city":"Atlanta",
+    "state":"Georgia",
+    "date":"Sept. 19, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Atlanta, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8819594,37.1092162 ]
+    },
+    "properties": {
+    "id":179,
+    "names":"Willis Griffey",
+    "city":"Princeton",
+    "state":"Kentucky",
+    "date":"Oct. 15, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Princeton, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7199136,33.3246924 ]
+    },
+    "properties": {
+    "id":180,
+    "names":"Lee Lawrence",
+    "city":"Jasper County",
+    "state":"Georgia",
+    "date":"Nov. 8, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Jasper County, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.7379958,35.5217179 ]
+    },
+    "properties": {
+    "id":181,
+    "names":"Needham Smith",
+    "city":"Tipton County",
+    "state":"Tennessee",
+    "date":"Nov. 10, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Tipton County, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.9548989,33.4711475 ]
+    },
+    "properties": {
+    "id":182,
+    "names":"Robert Mosely",
+    "city":"Dolinite",
+    "state":"Alabama",
+    "date":"Nov. 14, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Dolinite, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1400923,29.1871986 ]
+    },
+    "properties": {
+    "id":183,
+    "names":"William Jackson",
+    "city":"Ocala",
+    "state":"Florida",
+    "date":"Dec. 4, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Ocala, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.12784,29.2787765 ]
+    },
+    "properties": {
+    "id":184,
+    "names":"unknown",
+    "city":"Marion County",
+    "state":"Florida",
+    "date":"Dec. 18, 1894",
+    "alleged_crime":"Rape",
+    "full_location":"Marion County, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0833492,35.7109569 ]
+    },
+    "properties": {
+    "id":185,
+    "names":"Lamsen Gregory",
+    "city":"Bell's Depot",
+    "state":"Tennessee",
+    "date":"March 6, 1894",
+    "alleged_crime":"Unknown Offense",
+    "full_location":"Bell's Depot, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.3623759,34.8634232 ]
+    },
+    "properties": {
+    "id":186,
+    "names":"unknown woman",
+    "city":"Marche",
+    "state":"Arkansas",
+    "date":"March 6, 1894",
+    "alleged_crime":"Unknown Offense",
+    "full_location":"Marche, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9510542,34.502587 ]
+    },
+    "properties": {
+    "id":187,
+    "names":"Alfred Brenn",
+    "city":"Calhoun",
+    "state":"Georgia",
+    "date":"April 14, 1894",
+    "alleged_crime":"Unknown Offense",
+    "full_location":"Calhoun, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7707238,34.7314195 ]
+    },
+    "properties": {
+    "id":188,
+    "names":"Harry Gill",
+    "city":"West Lancaster",
+    "state":"South Carolina",
+    "date":"June 8, 1894",
+    "alleged_crime":"Unknown Offense",
+    "full_location":"West Lancaster, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1892795,35.1751148 ]
+    },
+    "properties": {
+    "id":189,
+    "names":"unknown",
+    "city":"Landrum",
+    "state":"South Carolina",
+    "date":"Nov. 23, 1894",
+    "alleged_crime":"Unknown Offense",
+    "full_location":"Landrum, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0842901,38.1761009 ]
+    },
+    "properties": {
+    "id":190,
+    "names":"Mrs. Teddy Arthur",
+    "city":"Lincoln County",
+    "state":"West Virginia",
+    "date":"Dec. 5, 1894",
+    "alleged_crime":"Unknown Offense",
+    "full_location":"Lincoln County, West Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1400923,29.1871986 ]
+    },
+    "properties": {
+    "id":191,
+    "names":"Charles Willis",
+    "city":"Ocala",
+    "state":"Florida",
+    "date":"Jan. 14, 1894",
+    "alleged_crime":"Desperado",
+    "full_location":"Ocala, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4158095,30.8167445 ]
+    },
+    "properties": {
+    "id":192,
+    "names":"unknown",
+    "city":"Bayou Sarah",
+    "state":"Louisiana",
+    "date":"Jan. 18, 1894",
+    "alleged_crime":"Suspected Incendiarism",
+    "full_location":"Bayou Sarah, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1193012,32.5093109 ]
+    },
+    "properties": {
+    "id":193,
+    "names":"J.H. Dave",
+    "city":"Monroe",
+    "state":"Louisiana",
+    "date":"June 14, 1894",
+    "alleged_crime":"Suspected Arson",
+    "full_location":"Monroe, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.357567,33.9519347 ]
+    },
+    "properties": {
+    "id":194,
+    "names":"NA Collins",
+    "city":"Athens",
+    "state":"Georgia",
+    "date":"Feb. 10, 1894",
+    "alleged_crime":"Enticing Servant Away",
+    "full_location":"Athens, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.9018131,31.9685988 ]
+    },
+    "properties": {
+    "id":195,
+    "names":"Jesse Dillingham",
+    "city":"Smokeyville",
+    "state":"Texas",
+    "date":"Feb. 10, 1894",
+    "alleged_crime":"Train Wrecking",
+    "full_location":"Smokeyville, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.903754,32.5404447 ]
+    },
+    "properties": {
+    "id":196,
+    "names":"unknown",
+    "city":"Dublin",
+    "state":"Georgia",
+    "date":"June 3, 1894",
+    "alleged_crime":"Highway Robbery",
+    "full_location":"Dublin, Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9347427,37.4483806 ]
+    },
+    "properties": {
+    "id":197,
+    "names":"Gabe Nalls, Ulysses Nails",
+    "city":"Blackford",
+    "state":"Kentucky",
+    "date":"Nov. 8, 1894",
+    "alleged_crime":"Incendiarism",
+    "full_location":"Blackford, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4974838,25.9017472 ]
+    },
+    "properties": {
+    "id":198,
+    "names":"James Allen",
+    "city":"Brownsville",
+    "state":"Texas",
+    "date":"Dec. 20, 1894",
+    "alleged_crime":"Arson",
+    "full_location":"Brownsville, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0715323,29.9510658 ]
+    },
+    "properties": {
+    "id":199,
+    "names":"George King",
+    "city":"New Orleans",
+    "state":"Louisiana",
+    "date":"Dec. 23, 1894",
+    "alleged_crime":"Assault",
+    "full_location":"New Orleans, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.7538817,32.796224 ]
+    },
+    "properties": {
+    "id":200,
+    "names":"Scott Sherman",
+    "city":"Morehouse Parish",
+    "state":"Louisiana",
+    "date":"Dec. 28, 1894",
+    "alleged_crime":"No offense",
+    "full_location":"Morehouse Parish, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.3217585,32.3415342 ]
+    },
+    "properties": {
+    "id":201,
+    "names":"Henry Smith, William James",
+    "city":"Clinton",
+    "state":"Mississippi",
+    "date":"May 29, 1894",
+    "alleged_crime":"Burglary",
+    "full_location":"Clinton, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.3748354,32.8078912 ]
+    },
+    "properties": {
+    "id":202,
+    "names":"Ready Murdock",
+    "city":"Yazoo",
+    "state":"Mississippi",
+    "date":"June 4, 1894",
+    "alleged_crime":"Alleged Rape",
+    "full_location":"Yazoo, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.8853078,30.3960318 ]
+    },
+    "properties": {
+    "id":203,
+    "names":"unknown Negro",
+    "city":"Biloxi",
+    "state":"Mississippi",
+    "date":"July 14, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Biloxi, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.8187285,30.0035365 ]
+    },
+    "properties": {
+    "id":204,
+    "names":"Vance McClure",
+    "city":"New Iberia",
+    "state":"Louisiana",
+    "date":"July 26, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"New Iberia, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.027427,38.3120197 ]
+    },
+    "properties": {
+    "id":205,
+    "names":"William Tyler",
+    "city":"Carlisle",
+    "state":"Kentucky",
+    "date":"July 26, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Carlisle, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1098275,29.9441298 ]
+    },
+    "properties": {
+    "id":206,
+    "names":"James Smith",
+    "city":"Stark",
+    "state":"Florida",
+    "date":"Sept. 14, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Stark, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.1652481,31.7246128 ]
+    },
+    "properties": {
+    "id":207,
+    "names":"Henry Gibson",
+    "city":"Fairfield",
+    "state":"Texas",
+    "date":"Oct. 8, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Fairfield, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7496909,38.8159473 ]
+    },
+    "properties": {
+    "id":208,
+    "names":"NA Williams",
+    "city":"Upper Marlboro",
+    "state":"Maryland",
+    "date":"Oct. 20, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Upper Marlboro, Maryland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.683469,30.55484 ]
+    },
+    "properties": {
+    "id":209,
+    "names":"Lewis Williams",
+    "city":"Hewett Springs",
+    "state":"Mississippi",
+    "date":"June 9, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Hewett Springs, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.4406506,31.5790588 ]
+    },
+    "properties": {
+    "id":210,
+    "names":"George Linton",
+    "city":"Brookhaven",
+    "state":"Mississippi",
+    "date":"June 28, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Brookhaven, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7476902,34.6296191 ]
+    },
+    "properties": {
+    "id":211,
+    "names":"Edward White",
+    "city":"Hudson",
+    "state":"Alabama",
+    "date":"June 28, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Hudson, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4092133,34.2739933 ]
+    },
+    "properties": {
+    "id":212,
+    "names":"George Pond",
+    "city":"Fulton",
+    "state":"Mississippi",
+    "date":"July 6, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Fulton, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.7033859,34.2576066 ]
+    },
+    "properties": {
+    "id":213,
+    "names":"Augustus Pond",
+    "city":"Tupelo",
+    "state":"Mississippi",
+    "date":"July 7, 1894",
+    "alleged_crime":"Attempted Rape",
+    "full_location":"Tupelo, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.9804374,32.3568222 ]
+    },
+    "properties": {
+    "id":214,
+    "names":"Mark Jacobs",
+    "city":"Bienville",
+    "state":"Louisiana",
+    "date":"June 10, 1894",
+    "alleged_crime":"Race Prejudice",
+    "full_location":"Bienville, Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":215,
+    "names":"unknown woman",
+    "city":"Sampson County",
+    "state":"Mississippi",
+    "date":"July 24, 1894",
+    "alleged_crime":"Race Prejudice",
+    "full_location":"Sampson County, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3643479,35.3820284 ]
+    },
+    "properties": {
+    "id":216,
+    "names":"James Perry",
+    "city":"Knoxville",
+    "state":"Arkansas",
+    "date":"June 10, 1894",
+    "alleged_crime":"Introducing Small Pox",
+    "full_location":"Knoxville, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2077645,36.8890304 ]
+    },
+    "properties": {
+    "id":217,
+    "names":"Lentige",
+    "city":"Harland County",
+    "state":"Kentucky",
+    "date":"March 2, 1894",
+    "alleged_crime":"Kidnapping",
+    "full_location":"Harland County, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6375819,29.6485801 ]
+    },
+    "properties": {
+    "id":218,
+    "names":"J.T. Burgis",
+    "city":"Palatka",
+    "state":"Florida",
+    "date":"May 29, 1894",
+    "alleged_crime":"Conspiracy",
+    "full_location":"Palatka, Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8897057,38.6194103 ]
+    },
+    "properties": {
+    "id":219,
+    "names":"Archie Haynes, Burt Haynes, William Haynes",
+    "city":"Mason County",
+    "state":"Kentucky",
+    "date":"June 20, 1894",
+    "alleged_crime":"Horse Stealing",
+    "full_location":"Mason County, Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0909551,31.8023057 ]
+    },
+    "properties": {
+    "id":220,
+    "names":"unknown Negro",
+    "city":"West Texas",
+    "state":"Texas",
+    "date":"May 9, 1894",
+    "alleged_crime":"Writing Letter to White Woman",
+    "full_location":"West Texas, Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3790147,34.1781719 ]
+    },
+    "properties": {
+    "id":221,
+    "names":"James Nelson",
+    "city":"Abbeyville",
+    "state":"South Carolina",
+    "date":"July 12, 1894",
+    "alleged_crime":"Giving Information",
+    "full_location":"Abbeyville, South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":222,
+    "names":"Alfred Davis",
+    "city":"Live Oak County",
+    "state":"Arkansas",
+    "date":"Jan. 5, 1894",
+    "alleged_crime":"Stealing",
+    "full_location":"Live Oak County, Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7888887,35.4492404 ]
+    },
+    "properties": {
+    "id":223,
+    "names":"Henry Montgomery",
+    "city":"Lewisburg",
+    "state":"Tennessee",
+    "date":"April 18, 1894",
+    "alleged_crime":"Larceny",
+    "full_location":"Lewisburg, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8349648,33.6142714 ]
+    },
+    "properties": {
+    "id":224,
+    "names":"John Brownlee",
+    "city":"Oxford",
+    "state":"Alabama",
+    "date":"July 19, 1894",
+    "alleged_crime":"Political Causes",
+    "full_location":"Oxford, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.9253233,32.2653668 ]
+    },
+    "properties": {
+    "id":225,
+    "names":"Allen Myers",
+    "city":"Rankin County",
+    "state":"Mississippi",
+    "date":"July 20, 1894",
+    "alleged_crime":"Conjuring",
+    "full_location":"Rankin County, Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.8139469,35.6145169 ]
+    },
+    "properties": {
+    "id":226,
+    "names":"Frank Ballard",
+    "city":"Jackson",
+    "state":"Tennessee",
+    "date":"June 1, 1894",
+    "alleged_crime":"Attempted Murder",
+    "full_location":"Jackson, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.0211007,32.4073589 ]
+    },
+    "properties": {
+    "id":227,
+    "names":"Negro",
+    "city":"Selma",
+    "state":"Alabama",
+    "date":"April 5, 1894",
+    "alleged_crime":"Alleged Murder",
+    "full_location":"Selma, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5809876,36.6378774 ]
+    },
+    "properties": {
+    "id":228,
+    "names":"Samuel Wood",
+    "city":"Gates City",
+    "state":"Virginia",
+    "date":"May 17, 1894",
+    "alleged_crime":"Without Cause",
+    "full_location":"Gates City, Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.70253,34.7312005 ]
+    },
+    "properties": {
+    "id":229,
+    "names":"Thomas Black, John Williams, Toney Johnson",
+    "city":"Tuscumbia",
+    "state":"Alabama",
+    "date":"April 22, 1894",
+    "alleged_crime":"Barn Burning",
+    "full_location":"Tuscumbia, Alabama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.3877899,36.0770048 ]
+    },
+    "properties": {
+    "id":230,
+    "names":"William Bell",
+    "city":"Dixon",
+    "state":"Tennessee",
+    "date":"July 14, 1894",
+    "alleged_crime":"Barn Burning",
+    "full_location":"Dixon, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8973084,35.3414744 ]
+    },
+    "properties": {
+    "id":231,
+    "names":"Daniel Hawkins, Robert Haynes, Warner Williams, Edward Hall, John Haynes, Graham White",
+    "city":"Millington",
+    "state":"Tennessee",
+    "date":"Sept. 1, 1894",
+    "alleged_crime":"Barn Burning",
+    "full_location":"Millington, Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.8318334,35.20105 ]
+    },
+    "properties": {
+    "id":232,
+    "names":"William Brooks",
+    "city":"Galesline",
+    "state":"Arkansas",
+    "date":"May 23, 1894",
+    "alleged_crime":"Asking White Woman to Marry Him",
+    "full_location":"Galesline, Arkansas"
+    }
+  }
+]
+}

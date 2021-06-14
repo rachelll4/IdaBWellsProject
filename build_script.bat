@@ -1,1 +1,1 @@
-%cd% > build_log.txt
+%cd%

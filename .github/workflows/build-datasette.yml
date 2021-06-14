@@ -26,6 +26,11 @@ jobs:
         with:
           python-version: 3.9.5
         
+      - name: check dir contents
+        run: |
+          dir
+        shell: cmd      
+        
       - name: Run update file
         run: |
           build_script.bat > build_log.txt

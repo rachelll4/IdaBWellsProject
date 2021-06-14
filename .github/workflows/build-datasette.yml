@@ -27,8 +27,7 @@ jobs:
           python-version: 3.9.5
         
       - name: Run update file
-        run: |-
-          cd RedRecord
+        run: |
           build_script.bat > build_log.txt
         shell: cmd
         

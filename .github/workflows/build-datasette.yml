@@ -28,8 +28,8 @@ jobs:
         
       - name: Run update file
         run: |-
-          chmod +x build_script.sh
-          build_script.sh > build_log.txt
+          chmod +x build_script
+          bash build_script > build_log.txt
         shell: bash
         
       - name: Commit and push build_log.txt

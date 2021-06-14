@@ -28,6 +28,7 @@ jobs:
         
       - name: Run update file
         run: |-
+          ls
           chmod +x build_script
           bash build_script > build_log.txt
         shell: bash

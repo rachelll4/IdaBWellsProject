@@ -30,8 +30,8 @@ jobs:
         run: |
           echo "$PATH"
           ls -l
-          chmod +x build_script
-          bash build_script > build_log.txt
+          chmod +x ./build_script
+          bash ./build_script > ./build_log.txt
         shell: bash
         
       - name: Commit and push build_log.txt

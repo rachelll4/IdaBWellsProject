@@ -27,8 +27,8 @@ jobs:
           python-version: 3.9.5
         
       - name: Run update file
-        run: |-
-          echo %PATH%
+        run: |
+          echo "$PATH"
           ls -l
           chmod +x build_script
           bash build_script > build_log.txt

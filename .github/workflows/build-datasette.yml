@@ -7,7 +7,7 @@ on:
   # and only when this geojson file is pushed
   push:
     paths:
-      - 'red-record-states.geojson'
+      - 'red_record_states.csv'
     branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab

@@ -30,7 +30,7 @@ jobs:
         run: |
             pip install datasette sqlite-utils heroku
             cd ~
-            sudo touch .netrc
+            sudo cat >> .netrc
             sudo echo "machine api.heroku.com
               login dec11rll@gmail.com
               password 7fae40af-044d-40c4-9955-aea8e7372b63

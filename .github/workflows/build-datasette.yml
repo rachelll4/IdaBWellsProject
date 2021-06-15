@@ -29,7 +29,13 @@ jobs:
       - name: Testing Heroku 
         run: |
             pip install datasette sqlite-utils heroku
-            echo "dec11rll@gmail.com" | heroku login -i
+            cd ..
+            ls
+            cd ..
+            ls
+            cd ..
+            ls
+            
         shell: bash
         
 #      - name: Run set-up file

@@ -15,4 +15,4 @@ cd /home/runner/work/IdaBWellsProject/IdaBWellsProject
 sqlite-utils insert red_record.db red-record-data red-record-states.geojson
 heroku plugins:install heroku-builds
 datasette install datasette-cluster-map
-datasette publish heroku --name "redrecord" --install=datasette-cluster-map
+datasette publish heroku red_record.db --name "redrecord" --install=datasette-cluster-map

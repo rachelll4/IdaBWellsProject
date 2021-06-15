@@ -30,11 +30,17 @@ jobs:
         run: |
             pip install datasette sqlite-utils heroku
             cd ..
-            ls
+            echo "----"
+            echo pwd
+            ls -l
             cd ..
-            ls
+            echo "----"
+            echo pwd
+            ls -1
             cd ..
-            ls
+            echo "----"
+            echo pwd
+            ls -1
             
         shell: bash
         

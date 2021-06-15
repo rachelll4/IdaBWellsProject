@@ -33,10 +33,10 @@ jobs:
             echo "moving to root -----------------"
             cd ~
             echo "listing files --------------"
-            ls -l
+            ls -a
             echo "creating .netrc ------------------"
             sudo cat > .netrc
-            ls -l
+            ls -a
             echo "printing to .netrc ------------------"
             sudo echo "machine api.heroku.com
               login dec11rll@gmail.com
@@ -47,7 +47,7 @@ jobs:
             echo "printing .netrc contents -------------"
             echo "$(.netrc)"
             echo "listing contents -------------"
-            ls -l
+            ls -a
         shell: bash
         
 #      - name: Run set-up file

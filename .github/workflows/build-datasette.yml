@@ -34,13 +34,13 @@ jobs:
             cd ~
             echo "listing files --------------"
             ls -l
-            echo "printing to .netr ------------------c"
+            echo "printing to .netrc ------------------"
             sudo (echo "machine api.heroku.com
               login dec11rll@gmail.com
               password 7fae40af-044d-40c4-9955-aea8e7372b63
             machine git.heroku.com
               login dec11rll@gmail.com
-              password 7fae40af-044d-40c4-9955-aea8e7372b63" > .netrc
+              password 7fae40af-044d-40c4-9955-aea8e7372b63") > .netrc
             echo "printing .netrc contents -------------"
             echo "$(.netrc)"
             echo "listing contents -------------"

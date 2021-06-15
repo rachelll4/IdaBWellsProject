@@ -1,4 +1,4 @@
-﻿id,names,city,state,date,alleged_crime,full_location,lon,lat
+﻿id,names,city,state,date,alleged_crime,full_location,longitude,latitude
 1,"Paul Hill, Paul Archer, William Archer, Emma Fair",Carrollton,Alabama,"Sept. 15, 1893",Arson,"Carrollton, Alabama",-88.0950263,33.2617871
 2,unknown negro,Fannin,Mississippi,"Dec. 23, 1893",Suspected Robbery,"Fannin, Mississippi",-89.9567485,32.4173651
 3,Calvin Thomas,Brainbridge,Georgia,"Dec. 25, 1893",Assault,"Brainbridge, Georgia",-84.5754699,30.9037995

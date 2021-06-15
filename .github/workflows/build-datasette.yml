@@ -29,19 +29,18 @@ jobs:
       - name: Testing Heroku 
         run: |
             pip install datasette sqlite-utils heroku
-            cd ..
-            echo "----"
-            echo pwd
+            cd ../../../..
             ls -l
-            cd ..
-            echo "----"
-            echo pwd
-            ls -1
-            cd ..
-            echo "----"
-            echo pwd
-            ls -1
-            
+            (
+            echo "machine api.heroku.com"
+            echo "  login dec11rll@gmail.com"
+            echo "  password 7fae40af-044d-40c4-9955-aea8e7372b63"
+            echo "machine git.heroku.com"
+            echo "  login dec11rll@gmail.com"
+            echo "  password 7fae40af-044d-40c4-9955-aea8e7372b63"
+            ) >> .netrc
+            echo "---"
+            ls -l
         shell: bash
         
 #      - name: Run set-up file

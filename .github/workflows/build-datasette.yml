@@ -28,6 +28,7 @@ jobs:
         
       - name: Setting up Heroku 
         run: |
+            echo $PATH
             pip install datasette sqlite-utils heroku
             cd ~
             sudo cat >> .netrc

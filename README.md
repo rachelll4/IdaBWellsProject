@@ -1,4 +1,5 @@
-# Sourcing and Files
+# Lynching Data from Ida B. Wells' Red Record, 1893 and 1894
+## Sourcing and Files
 This project forks a project by an IUP student which scraped **lynching data** out of Ida B. Wells' *Red Record*. Their data was concatenated into one excel file, which is manipulated by red_record.rmd. The R Markdown file takes city and state (with the help of state_abbrev.xlsx) and runs it hrough Google's Maps API to get latitude and longitude data, which is then added onto the dataframe. The resultant data is exported to red_record_states.xlsx. The xlsx file is exported to csv for use testing a sqlite database. The xlsx file is exported to a geojson file using online tools, and this red-record-states.geojson is our main file of importance.
 
 ## Automation

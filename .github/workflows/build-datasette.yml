@@ -35,7 +35,7 @@ jobs:
             echo "listing files --------------"
             ls -l
             echo "creating .netrc ------------------"
-            cat > .netrc
+            sudo cat > .netrc
             ls -l
             echo "printing to .netrc ------------------"
             sudo echo "machine api.heroku.com

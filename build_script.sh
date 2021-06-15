@@ -12,7 +12,7 @@ machine git.heroku.com
 
 cd /home/runner/work/IdaBWellsProject/IdaBWellsProject
 
-sqlite-utils insert red_record.db red-record-data red-record-states.csv --csv
+sqlite-utils insert red_record.db red-record-data red_record_states.csv --csv
 heroku plugins:install heroku-builds
 datasette install datasette-cluster-map
 datasette publish heroku red_record.db --name "redrecord" --install=datasette-cluster-map

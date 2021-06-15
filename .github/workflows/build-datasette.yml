@@ -26,47 +26,33 @@ jobs:
         with:
           python-version: 3.9.5
         
-      - name: Testing Heroku 
+      - name: Setting up Heroku 
         run: |
-            echo "installing packages ------------------"
             pip install datasette sqlite-utils heroku
-            echo "moving to root -----------------"
             cd ~
-            echo "listing files --------------"
-            ls -a
-            echo "creating .netrc ------------------"
-            sudo cat > .netrc
-            ls -a
-            echo "printing to .netrc ------------------"
+            sudo touch .netrc
             sudo echo "machine api.heroku.com
               login dec11rll@gmail.com
               password 7fae40af-044d-40c4-9955-aea8e7372b63
             machine git.heroku.com
               login dec11rll@gmail.com
-              password 7fae40af-044d-40c4-9955-aea8e7372b63" > .netrc
-            echo "printing .netrc contents -------------"
+              password 7fae40af-044d-40c4-9955-aea8e7372b63" >> .netrc
             cat .netrc
-            echo "listing contents -------------"
-            ls -a
+            cd work/runners/IdaBWellsProject/IdaBWellsProject
+            
         shell: bash
-        
-#      - name: Run set-up file
-#        run: |
-#          chmod +x ./set-up.sh
-#          ./set-up.sh
-#        shell: bash
 
-#      - name: Run build file
-#        run: |
-#          chmod +x ./build_script.sh
-#          ./build_script.sh > ./build_log.txt
-#        shell: bash
+      - name: Run build file
+        run: |
+          chmod +x ./build_script.sh
+          ./build_script.sh > ./build_log.txt
+        shell: bash
         
       - name: Commit and push build_log.txt
         run: |-
+          git diff
           git config --global user.email build-script-bot@github.com
           git config --global user.name build-script-bot
-          git add build_log.txt
-          git commit -m "Datasette website updated - see build_log.txt"
+          git diff --quiet || (git add build_log.txt && git commit -m "Datasette website updated - see build_log.txt")
           git push
         

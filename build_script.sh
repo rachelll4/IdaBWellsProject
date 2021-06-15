@@ -9,7 +9,6 @@ sudo echo "machine api.heroku.com
 machine git.heroku.com
   login dec11rll@gmail.com
   password ece9d5cb-78ed-4075-a51e-b9fd6d1e6c08" >> .netrc
-cat .netrc
 
 cd /home/runner/work/IdaBWellsProject/IdaBWellsProject
 

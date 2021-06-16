@@ -27,35 +27,37 @@
         const murder = request.response; 
         console.log(murder);
         populateDatatable(murder);
-        transform(murder);
-        
+        transform(murder);  
     }
 
     //END REQUEST
 
+    /*
+    filter function
+    works on button press
+    looks at fields selected from dropdowns and text boxes (maybe just dropdowns) for arguments
+    then puts them into something like what is described here:
+    https://stackoverflow.com/questions/2722159/how-to-filter-object-array-based-on-attributes
+    using a filter function and referencing data by property
+    */
+
     let victimDataArray = [];
 
-    function transform(murderData){
-
+    let transform = murderData => {
+    //let transform = murderData => {
         for (let i = 0; i < murderData.rows.length; i++) {
-
             let temp = {};
-            
             for(let j = 0; j < murderData.columns.length; j++) {
-                
                 temp[murderData.columns[j]] = murderData.rows[i][j]
             }
-
             victimDataArray.push(temp)
         }
         console.log(victimDataArray)
+
+        return false
     }
 
-
-
     //Create function to populate header based on JSON
-  
-
     function populateDatatable(obj) {       
 
         const victims = obj['rows'];
@@ -74,7 +76,7 @@
             // EACH OF THESE SHOULD BE A BOOTSTRAP MODULE
 
             myH2.innerHTML = '<a href="http://www.umd.edu">Name: ' + victims[i]["2"] + '</a>';
-            myPara1.innerHTML = 'City:' + victims[i]["3"];
+            myPara1.innerHTML = 'City: ' + victims[i]["3"];
             myPara2.textContent = 'State: ' + victims[i]["4"];
             myPara3.textContent = 'Date: ' + victims[i]["5"];
             myPara4.innerHTML = '<strong>Crime: ' + victims[i]["6"] + '</strong>';
@@ -87,6 +89,8 @@
 
             datatable.appendChild(myArticle);
         }
+
+        return false
     }
 
   //Next page function

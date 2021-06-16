@@ -7,7 +7,7 @@
 
     
     //store JSON in a variable
-    let requestURL = 'https://redrecord.herokuapp.com/red_record/red_record.json?_sort=alleged_crime&state__exact=Texas';
+    let requestURL = 'https://redrecord.herokuapp.com/red_record/red_record.json?'; //_sort=alleged_crime&state__exact=Texas';
 
     //create request object
     let request = new XMLHttpRequest();
@@ -27,10 +27,30 @@
         const murder = request.response; 
         console.log(murder);
         populateDatatable(murder);
+        transform(murder);
         
     }
 
     //END REQUEST
+
+    let victimDataArray = [];
+
+    transform = (murderData) => {
+
+        for (let i = 0; i < murderData.rows.length; i++) {
+
+            let temp = {};
+            
+            for(let j = 0; j < murderData.columns.length; j++) {
+                
+                temp[murderData.columns[j]] = murderData.rows[i][j]
+            }
+
+            victimDataArray.add(temp)
+        }
+        console.log(victimDataArray)
+    }
+
 
 
     //Create function to populate header based on JSON

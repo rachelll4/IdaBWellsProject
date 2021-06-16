@@ -46,7 +46,7 @@
                 temp[murderData.columns[j]] = murderData.rows[i][j]
             }
 
-            victimDataArray.add(temp)
+            victimDataArray.push(temp)
         }
         console.log(victimDataArray)
     }

@@ -1,0 +1,131 @@
+<!-- 
+    FROM DATASETTE: https://fivethirtyeight.datasettes.com/fivethirtyeight/alcohol-consumption%2Fdrinks
+    ORIGINAL CODE SOURCE: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Alcohol Consumption</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Faster+One" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+
+  <body>
+
+      <header>
+
+      </header>
+
+      <section>
+
+      </section>
+
+      <footer>
+        <a href="json-test-pg2.html">Next page</a>
+      </footer>
+
+    <script>
+
+    //REQUEST THE JSON
+
+    //store header and section as variables
+    const header = document.querySelector('header');
+    const section = document.querySelector('section');
+    const footer = document.querySelector('footer');
+
+    
+    //store JSON in a variable
+    let requestURL = 'https://fivethirtyeight.datasettes.com/fivethirtyeight/alcohol-consumption%2Fdrinks.json';
+
+    //create request object
+    let request = new XMLHttpRequest();
+
+    //open the request
+    request.open('GET', requestURL);
+
+    //set type to JSON
+    request.responseType = 'json';
+
+    //send request
+    request.send();
+
+    //Store the request in a variable called drinks
+    //pass the object to two functions - populateHeader and showHeroes
+    request.onload = function() {
+        const drinks = request.response;
+        populateHeader(drinks);
+        populateSection(drinks);
+        populateNext(drinks);
+    }
+
+    //END REQUEST
+
+
+    //Create function to populate header based on JSON
+    function populateHeader(obj) {
+        const myH1 = document.createElement('h1');
+        myH1.textContent = obj['database'];
+        header.appendChild(myH1);
+
+        const myPara = document.createElement('p');
+        myPara.textContent = 'table: ' + obj['table'] + ' // is_view: ' + obj['is_view'];
+        header.appendChild(myPara);
+    }
+
+    function populateSection(obj) {
+        const countries = obj['rows'];
+    
+    for (let i = 0; i < countries.length; i++) {
+        const myArticle = document.createElement('article');
+        const myH2 = document.createElement('h2');
+        const myPara1 = document.createElement('p');
+        const myPara2 = document.createElement('p');
+        const myPara3 = document.createElement('p');
+        const myPara4 = document.createElement('p');
+
+
+    //if this was a string, say name, it would be:
+    //myH2.textContent = countries[i].name;
+    myH2.innerHTML = '<a href="http://www.umd.edu">' + countries[i]["1"] + '</a>';
+    myPara1.innerHTML = '<strong>Beer servings:</strong> ' + countries[i]["2"];
+    myPara2.textContent = 'Spirit servings: ' + countries[i]["3"];
+    myPara3.textContent = 'Wine servings: ' + countries[i]["4"];
+    myPara4.textContent = 'Total Litres of pure alcohol: ' + countries[i]["5"];
+
+    myArticle.appendChild(myH2);
+    myArticle.appendChild(myPara1);
+    myArticle.appendChild(myPara2);
+    myArticle.appendChild(myPara3);
+    myArticle.appendChild(myPara4);
+
+    section.appendChild(myArticle);
+  }
+}
+
+  //Next page function
+  // add the next page json url to local storage for use in page 2
+  function populateNext(obj) {
+        var nextPage = obj['next_url'];
+        localStorage.setItem("nextPageURL",nextPage);
+
+        //if this is the end of results, hide the next link
+         if (obj['next_url'] != null) {
+           document.getElementById('next-link').style.display = 'block';
+                } else {
+            document.getElementById('next-link').style.display = 'none';
+        }
+
+    }
+
+
+
+
+    </script>
+  </body>
+</html>

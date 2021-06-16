@@ -2,7 +2,7 @@
 
     //store header and section as variables
     
-    const datatable = document.querySelector('datatable');
+    const datatable = document.querySelector('section');
     
 
     
@@ -24,7 +24,8 @@
     //Store the request in a variable called murder
     //pass the object to two functions - populateHeader and showHeroes
     request.onload = function() {
-        const murder = request.response;        
+        const murder = request.response; 
+        console.log(murder);
         populateDatatable(murder);
         
     }
@@ -36,34 +37,39 @@
   
 
     function populateDatatable(obj) {
-        const countries = obj['rows'];
+
+        datatable.appendChild(obj);
+
+        const victims = obj['rows'];
     
-    for (let i = 0; i < countries.length; i++) {
-        const myArticle = document.createElement('article');
-        const myH2 = document.createElement('h2');
-        const myPara1 = document.createElement('p');
-        const myPara2 = document.createElement('p');
-        const myPara3 = document.createElement('p');
-        const myPara4 = document.createElement('p');
+        for (let i = 0; i < victims.length; i++) {
+            const myArticle = document.createElement('article');
+            const myH2 = document.createElement('h2');
+            const myPara1 = document.createElement('p');
+            const myPara2 = document.createElement('p');
+            const myPara3 = document.createElement('p');
+            const myPara4 = document.createElement('p');
 
 
-    //if this was a string, say name, it would be:
-    //myH2.textContent = countries[i].name;
-    myH2.innerHTML = '<a href="http://www.umd.edu">' + countries[i]["1"] + '</a>';
-    myPara1.innerHTML = '<strong>Beer servings:</strong> ' + countries[i]["2"];
-    myPara2.textContent = 'Spirit servings: ' + countries[i]["3"];
-    myPara3.textContent = 'Wine servings: ' + countries[i]["4"];
-    myPara4.textContent = 'Total Litres of pure alcohol: ' + countries[i]["5"];
+            //if this was a string, say name, it would be:
+            //myH2.textContent = victims[i].name;
+            // EACH OF THESE SHOULD BE A BOOTSTRAP MODULE
 
-    myArticle.appendChild(myH2);
-    myArticle.appendChild(myPara1);
-    myArticle.appendChild(myPara2);
-    myArticle.appendChild(myPara3);
-    myArticle.appendChild(myPara4);
+            myH2.innerHTML = '<a href="http://www.umd.edu">Name: ' + victims[i]["2"] + '</a>';
+            myPara1.innerHTML = 'City:' + victims[i]["3"];
+            myPara2.textContent = 'State: ' + victims[i]["4"];
+            myPara3.textContent = 'Date: ' + victims[i]["4"];
+            myPara4.textContent = '<strong>Crime: ' + victims[i]["5"] + '</strong>';
 
-    section.appendChild(myArticle);
-  }
-}
+            myArticle.appendChild(myH2);
+            myArticle.appendChild(myPara1);
+            myArticle.appendChild(myPara2);
+            myArticle.appendChild(myPara3);
+            myArticle.appendChild(myPara4);
+
+            datatable.appendChild(myArticle);
+        }
+    }
 
   //Next page function
   // add the next page json url to local storage for use in page 2

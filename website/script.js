@@ -35,7 +35,7 @@
 
     let victimDataArray = [];
 
-    transform = (murderData) => {
+    let transform = (murderData) => {
 
         for (let i = 0; i < murderData.rows.length; i++) {
 

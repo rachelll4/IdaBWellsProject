@@ -36,9 +36,7 @@
     //Create function to populate header based on JSON
   
 
-    function populateDatatable(obj) {
-
-        datatable.appendChild(obj);
+    function populateDatatable(obj) {       
 
         const victims = obj['rows'];
     
@@ -58,8 +56,8 @@
             myH2.innerHTML = '<a href="http://www.umd.edu">Name: ' + victims[i]["2"] + '</a>';
             myPara1.innerHTML = 'City:' + victims[i]["3"];
             myPara2.textContent = 'State: ' + victims[i]["4"];
-            myPara3.textContent = 'Date: ' + victims[i]["4"];
-            myPara4.textContent = '<strong>Crime: ' + victims[i]["5"] + '</strong>';
+            myPara3.textContent = 'Date: ' + victims[i]["5"];
+            myPara4.innerHTML = '<strong>Crime: ' + victims[i]["6"] + '</strong>';
 
             myArticle.appendChild(myH2);
             myArticle.appendChild(myPara1);

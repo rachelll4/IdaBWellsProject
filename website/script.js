@@ -60,7 +60,7 @@
     
         for (let i = 0; i < victimDataArray.length; i++) {
 
-            if (victimDataArray[i].alleged_crime =="Arson"){
+            if (true){//victimDataArray[i].alleged_crime =="Arson"){
 
                 const myBootModule = document.createElement('div')
                 myBootModule.className = "col-lg-3 col-md-6"

@@ -79,7 +79,7 @@
                 myPara4.innerHTML = '<strong>Crime: ' + victimDataArray[i].alleged_crime + '</strong>';
                 //myPara5.textContent = 'Row ID: ' +victimDataArray[i].rowid;
 
-                myBootModule.appendChild(myH2);
+                myBootModule.appendChild(myH3);
                 myBootModule.appendChild(myPara1);
                 myBootModule.appendChild(myPara2);
                 myBootModule.appendChild(myPara3);

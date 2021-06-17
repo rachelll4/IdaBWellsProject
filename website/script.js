@@ -27,35 +27,14 @@
     //pass the object to two functions - populateHeader and showHeroes
     request.onload = function() {
         const murder = request.response; 
-        console.log(murder);
-        transform(murder);  
+        transform(murder);
+
         populateDatatable();
         
     }
 
-    /*END REQUEST
+    /*END REQUEST*/
 
-    class maipulate{
-
-        function select(data[]){
-
-        }
-
-        function filter(data[]){
-
-        }
-
-    }*/
-
-
-    /*
-    filter function
-    works on button press
-    looks at fields selected from dropdowns and text boxes (maybe just dropdowns) for arguments
-    then puts them into something like what is described here:
-    https://stackoverflow.com/questions/2722159/how-to-filter-object-array-based-on-attributes
-    using a filter function and referencing data by property
-    */
 
     let victimDataArray = [];
 
@@ -75,14 +54,6 @@
 
     //Create function to populate header based on JSON
     function populateDatatable() {       
-
-
-        //nested loops? hold row item outside for every three
-        //iterate through all mod three, then add a loop going through every three? 
-        //but stragglers outside of mod
-
-        //or just APPEND some straight text? 
-
 
         var myRow = document.createElement('div');
         myRow.className='row';

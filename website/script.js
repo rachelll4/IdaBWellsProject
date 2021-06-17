@@ -75,12 +75,25 @@
 
     //Create function to populate header based on JSON
     function populateDatatable() {       
+
+
+        //nested loops? hold row item outside for every three
+        //iterate through all mod three, then add a loop going through every three? 
+        //but stragglers outside of mod
+
+        //or just APPEND some straight text? 
+
+
+        var myRow = document.createElement('div');
+        myRow.className='row';
     
         for (let i = 0; i < victimDataArray.length; i++) {
 
-            if ({victimDataArray[i].alleged_crime =="Arson"){//true)
+            if (victimDataArray[i].alleged_crime =="Arson"){
 
-                const myArticle = document.createElement('article');
+                const myBootModule = document.createElement('div')
+                myBootModule.className = "col-lg-3 col-md-6"
+
                 const myH2 = document.createElement('h2');
                 const myPara1 = document.createElement('p');
                 const myPara2 = document.createElement('p');
@@ -88,29 +101,32 @@
                 const myPara4 = document.createElement('p');
                 //const myPara5 = document.createElement('p');
 
-
-                //if this was a string, say name, it would be:
-                //myH2.textContent = victims[i].name;
-                // EACH OF THESE SHOULD BE A BOOTSTRAP MODULE
-
-
-                myH2.innerHTML = '<a href="http://www.umd.edu">Name: ' + victimDataArray[i].names + '</a>';
+                myH2.innerHTML += '<a href="http://www.umd.edu">Name: ' + victimDataArray[i].names + '</a>';
                 myPara1.textContent = 'City: ' + victimDataArray[i].city;
                 myPara2.textContent = 'State: ' + victimDataArray[i].state;
                 myPara3.textContent = 'Date: ' + victimDataArray[i].date;
                 myPara4.innerHTML = '<strong>Crime: ' + victimDataArray[i].alleged_crime + '</strong>';
                 //myPara5.textContent = 'Row ID: ' +victimDataArray[i].rowid;
-                myArticle.appendChild(myH2);
-                myArticle.appendChild(myPara1);
-                myArticle.appendChild(myPara2);
-                myArticle.appendChild(myPara3);
-                myArticle.appendChild(myPara4);
-                //myArticle.appendChild(myPara5);
 
-                datatable.appendChild(myArticle);
+                myBootModule.appendChild(myH2);
+                myBootModule.appendChild(myPara1);
+                myBootModule.appendChild(myPara2);
+                myBootModule.appendChild(myPara3);
+                myBootModule.appendChild(myPara4);
+                //myBootModule.appendChild(myPara5);
+
+                
+
+                if (i%4 == 0 && i != 0) {
+                    datatable.appendChild(myRow);
+
+                    var myRow = document.createElement('div'); //overwrites previous???
+                    myRow.className='row';
+                }
+                myRow.appendChild(myBootModule);
             }
         }
-
+        datatable.appendChild(myRow);
         return false
     }
 

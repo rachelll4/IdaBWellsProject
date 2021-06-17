@@ -65,14 +65,14 @@
                 const myBootModule = document.createElement('div')
                 myBootModule.className = "col-lg-3 col-md-6"
 
-                const myH2 = document.createElement('h2');
+                const myH3 = document.createElement('h3');
                 const myPara1 = document.createElement('p');
                 const myPara2 = document.createElement('p');
                 const myPara3 = document.createElement('p');
                 const myPara4 = document.createElement('p');
                 //const myPara5 = document.createElement('p');
 
-                myH2.innerHTML += '<a href="http://www.umd.edu">Name: ' + victimDataArray[i].names + '</a>';
+                myH3.innerHTML += '<a href="http://www.umd.edu">' + victimDataArray[i].names + '</a>';
                 myPara1.textContent = 'City: ' + victimDataArray[i].city;
                 myPara2.textContent = 'State: ' + victimDataArray[i].state;
                 myPara3.textContent = 'Date: ' + victimDataArray[i].date;
